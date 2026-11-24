@@ -1,0 +1,1001 @@
+Student_ID,Age,Gender,Degree,Department,Year_of_Study,Preferred_Sector,Career_Reason,Expected_Salary,Job_Security_Importance,Salary_Importance,Growth_Importance,Work_Life_Balance,Preparation_Status,Government_Exam,Private_Career,Skills_Learning,Work_Location_Preference,Higher_Studies,Internship_Experience,Decision_Confidence
+1001,24,Female,BBA,Commerce,2nd Year,Government,Social Status,67335,4,4,4,4,Preparing,Railway,Core Industry,Power BI,Bangalore,No,No,3
+1002,21,Male,B.E,Computer Science,2nd Year,Private,Skill Development,47479,1,5,2,5,Preparing,TNPSC,None,Communication,Other India,Maybe,Yes,3
+1003,22,Male,BCA,Economics,2nd Year,Private,Career Growth,67949,5,3,3,5,Preparing,TNPSC,Data Analytics,Data Analysis,Chennai,Yes,Yes,1
+1004,24,Male,B.A,Commerce,3rd Year,Both,Work-Life Balance,20178,5,3,1,2,Planning,Railway,Business,Python,Chennai,No,Yes,1
+1005,20,Male,BBA,Statistics,4th Year,Government,Work-Life Balance,45022,5,1,2,2,Not Preparing,Railway,Banking,Data Analysis,Chennai,No,Yes,1
+1006,25,Male,B.Tech,Arts,4th Year,Private,Skill Development,30240,3,4,4,4,Preparing,Railway,IT,Communication,Other Tamil Nadu,Maybe,Yes,1
+1007,22,Female,B.Sc,Commerce,1st Year,Government,Social Status,41220,2,5,5,2,Planning,None,Business,Java,Other Tamil Nadu,Yes,Yes,2
+1008,22,Male,BBA,Engineering,3rd Year,Both,Job Security,51736,4,1,4,4,Planning,Other,Business,Communication,Bangalore,No,No,4
+1009,24,Female,B.Tech,Arts,2nd Year,Private,Skill Development,17716,5,3,5,1,Planning,Railway,Business,Python,Chennai,No,Yes,4
+1010,19,Female,BCA,Statistics,3rd Year,Government,Family Preference,31574,1,4,1,2,Preparing,Other,Business,Java,Bangalore,Maybe,No,3
+1011,20,Male,BCA,Computer Science,4th Year,Private,Salary,61279,5,5,5,1,Preparing,Banking,IT,Java,Chennai,Yes,No,5
+1012,24,Male,B.Sc,Economics,4th Year,Private,Skill Development,32719,2,2,2,3,Not Preparing,TNPSC,Core Industry,Python,Other Tamil Nadu,Yes,Yes,1
+1013,20,Female,B.Com,Commerce,1st Year,Government,Salary,23181,2,4,5,4,Planning,TNPSC,None,Java,Other India,Yes,Yes,4
+1014,20,Male,B.Sc,Statistics,1st Year,Both,Job Security,60763,4,5,3,3,Preparing,SSC,Data Analytics,SQL,Other India,Yes,No,4
+1015,25,Male,B.E,Arts,4th Year,Government,Social Status,59066,3,1,2,2,Planning,Banking,Business,Power BI,Other India,Maybe,No,1
+1016,22,Female,BBA,Engineering,2nd Year,Private,Career Growth,64530,4,2,1,1,Planning,Railway,Data Analytics,Data Analysis,Other India,No,No,2
+1017,21,Female,B.A,Statistics,2nd Year,Government,Work-Life Balance,76826,5,5,2,2,Not Preparing,Railway,Data Analytics,SQL,Anywhere,No,Yes,2
+1018,25,Male,B.Com,Management,3rd Year,Private,Career Growth,35213,1,5,3,3,Preparing,None,Business,SQL,Chennai,Yes,No,4
+1019,25,Female,B.Sc,Engineering,4th Year,Government,Work-Life Balance,21380,4,3,1,2,Preparing,Banking,Core Industry,Python,Other India,Yes,Yes,2
+1020,20,Male,B.Tech,Arts,4th Year,Both,Career Growth,15615,3,4,4,5,Planning,Railway,Data Analytics,Python,Anywhere,Yes,Yes,1
+1021,23,Male,B.Com,Computer Science,2nd Year,Private,Passion,77982,4,3,3,3,Planning,SSC,Banking,Data Analysis,Anywhere,No,No,4
+1022,22,Male,BBA,Economics,2nd Year,Private,Career Growth,66482,2,2,1,2,Not Preparing,Other,Data Analytics,Power BI,Anywhere,No,Yes,1
+1023,19,Female,B.Com,Arts,4th Year,Private,Skill Development,78488,5,5,5,1,Not Preparing,TNPSC,None,Communication,Bangalore,Yes,Yes,2
+1024,25,Female,BBA,Computer Science,1st Year,Private,Career Growth,65906,5,3,2,2,Not Preparing,Banking,Business,SQL,Bangalore,Maybe,No,1
+1025,21,Female,B.Sc,Commerce,4th Year,Government,Social Status,15463,5,4,1,1,Not Preparing,TNPSC,IT,Java,Anywhere,No,No,2
+1026,23,Female,BBA,Statistics,4th Year,Government,Family Preference,46973,5,2,2,5,Not Preparing,Other,Data Analytics,Power BI,Other India,No,Yes,2
+1027,23,Female,B.Com,Management,2nd Year,Both,Work-Life Balance,24158,5,1,5,2,Not Preparing,Banking,Core Industry,SQL,Chennai,Yes,No,1
+1028,19,Male,B.Tech,Engineering,2nd Year,Government,Social Status,35651,5,3,1,5,Planning,Other,Banking,Communication,Other Tamil Nadu,Maybe,Yes,2
+1029,25,Male,BCA,Engineering,1st Year,Private,Passion,18158,1,2,4,3,Not Preparing,Railway,Banking,Java,Bangalore,Yes,No,3
+1030,21,Male,B.Com,Statistics,1st Year,Both,Salary,35008,3,1,3,1,Planning,Railway,IT,SQL,Other India,Yes,No,1
+1031,22,Male,BBA,Management,3rd Year,Government,Job Security,61202,5,3,1,3,Planning,Railway,None,Excel,Other India,Maybe,No,3
+1032,18,Female,BCA,Statistics,4th Year,Private,Salary,19938,3,2,5,1,Preparing,Other,IT,Data Analysis,Other Tamil Nadu,Maybe,No,1
+1033,21,Male,BBA,Commerce,2nd Year,Private,Passion,53185,5,2,1,5,Planning,Other,None,Power BI,Other Tamil Nadu,Maybe,Yes,2
+1034,19,Female,B.Tech,Computer Science,1st Year,Private,Work-Life Balance,37388,4,3,2,4,Planning,Other,Data Analytics,Data Analysis,Other India,No,No,2
+1035,23,Male,BBA,Arts,3rd Year,Government,Job Security,23881,5,2,1,2,Not Preparing,TNPSC,Business,Python,Other Tamil Nadu,Yes,Yes,4
+1036,22,Female,B.Sc,Engineering,3rd Year,Government,Family Preference,74966,2,5,4,5,Planning,Other,Core Industry,SQL,Other India,No,Yes,4
+1037,21,Female,B.A,Commerce,2nd Year,Private,Skill Development,20603,1,3,1,1,Not Preparing,Railway,Banking,Java,Other Tamil Nadu,Maybe,No,3
+1038,18,Male,B.Com,Computer Science,2nd Year,Private,Skill Development,49980,4,2,3,1,Not Preparing,SSC,IT,Java,Other Tamil Nadu,No,No,2
+1039,18,Male,B.A,Commerce,3rd Year,Private,Career Growth,37504,4,1,1,1,Not Preparing,Other,Core Industry,Power BI,Other India,Maybe,No,4
+1040,20,Male,BBA,Management,1st Year,Private,Career Growth,69970,2,1,2,1,Preparing,SSC,None,Power BI,Anywhere,Maybe,No,2
+1041,20,Male,B.Tech,Engineering,3rd Year,Government,Work-Life Balance,31766,5,5,1,2,Not Preparing,Railway,Business,Data Analysis,Other India,Yes,No,1
+1042,24,Female,B.Com,Arts,4th Year,Private,Skill Development,66408,1,3,4,3,Planning,Other,Banking,Java,Chennai,Yes,Yes,4
+1043,19,Male,BBA,Statistics,4th Year,Government,Job Security,43386,4,2,5,4,Not Preparing,TNPSC,Banking,Java,Other Tamil Nadu,Yes,No,3
+1044,25,Male,BCA,Statistics,2nd Year,Both,Job Security,26695,1,2,1,2,Not Preparing,TNPSC,None,Java,Bangalore,No,Yes,4
+1045,21,Female,B.E,Computer Science,1st Year,Private,Passion,32796,4,1,1,1,Not Preparing,SSC,Business,SQL,Other Tamil Nadu,Yes,Yes,2
+1046,21,Male,BBA,Arts,1st Year,Private,Passion,57543,5,5,3,2,Preparing,None,Banking,Java,Chennai,Maybe,Yes,5
+1047,25,Male,B.A,Economics,4th Year,Both,Work-Life Balance,29559,4,1,4,5,Planning,TNPSC,Business,Python,Bangalore,Yes,Yes,5
+1048,24,Male,B.Com,Management,3rd Year,Government,Job Security,53914,4,1,5,1,Preparing,TNPSC,Banking,Java,Bangalore,No,No,2
+1049,23,Male,B.A,Computer Science,2nd Year,Private,Salary,48139,3,5,2,4,Planning,TNPSC,Data Analytics,Python,Other India,Yes,No,1
+1050,23,Male,B.Com,Economics,3rd Year,Government,Work-Life Balance,69958,5,3,1,1,Preparing,Railway,None,SQL,Anywhere,Yes,Yes,4
+1051,24,Female,BBA,Commerce,3rd Year,Both,Career Growth,53333,2,2,5,4,Planning,TNPSC,Business,Power BI,Other India,Yes,Yes,5
+1052,23,Male,B.Sc,Management,3rd Year,Government,Job Security,23802,2,3,2,4,Preparing,Banking,Core Industry,Python,Bangalore,No,No,1
+1053,20,Male,BCA,Commerce,1st Year,Private,Career Growth,23307,5,4,4,3,Not Preparing,Other,Data Analytics,SQL,Bangalore,Maybe,Yes,2
+1054,21,Male,BBA,Arts,4th Year,Both,Career Growth,55205,2,4,4,3,Preparing,TNPSC,Core Industry,Java,Anywhere,Maybe,No,1
+1055,24,Male,B.A,Engineering,1st Year,Government,Job Security,48214,5,4,5,2,Preparing,None,None,SQL,Other Tamil Nadu,Maybe,Yes,2
+1056,21,Male,B.E,Management,4th Year,Government,Job Security,49159,2,5,2,2,Not Preparing,None,Banking,Java,Anywhere,Yes,No,4
+1057,25,Female,B.E,Economics,2nd Year,Private,Career Growth,26516,3,1,4,4,Not Preparing,TNPSC,Core Industry,Data Analysis,Other India,Yes,Yes,1
+1058,18,Male,B.Tech,Engineering,2nd Year,Private,Career Growth,65492,2,3,5,1,Planning,TNPSC,Data Analytics,SQL,Other Tamil Nadu,No,Yes,4
+1059,20,Female,B.Com,Statistics,3rd Year,Government,Work-Life Balance,44086,4,2,4,5,Planning,Banking,Business,Power BI,Other India,Maybe,Yes,1
+1060,22,Female,B.A,Economics,4th Year,Government,Work-Life Balance,63222,5,4,4,5,Planning,TNPSC,IT,Python,Anywhere,Yes,No,2
+1061,20,Male,B.Tech,Computer Science,4th Year,Government,Work-Life Balance,45480,1,3,4,1,Preparing,TNPSC,Core Industry,Data Analysis,Other Tamil Nadu,Yes,No,2
+1062,24,Male,B.A,Statistics,4th Year,Both,Salary,67091,1,4,3,1,Planning,Other,IT,Power BI,Anywhere,Yes,No,1
+1063,22,Male,B.Com,Statistics,3rd Year,Private,Career Growth,77487,5,4,2,3,Preparing,None,None,Excel,Chennai,No,Yes,2
+1064,18,Male,BBA,Computer Science,3rd Year,Government,Work-Life Balance,59659,3,2,5,5,Preparing,Banking,Core Industry,Java,Bangalore,Maybe,Yes,3
+1065,24,Female,BBA,Management,2nd Year,Government,Work-Life Balance,62766,2,5,5,4,Planning,None,Core Industry,Python,Other Tamil Nadu,No,Yes,3
+1066,19,Male,B.E,Statistics,1st Year,Government,Salary,53737,3,1,2,2,Planning,Banking,Business,Power BI,Bangalore,Maybe,Yes,4
+1067,21,Male,BBA,Arts,4th Year,Government,Job Security,24265,1,5,2,3,Preparing,None,Banking,Python,Chennai,Maybe,Yes,3
+1068,18,Male,BBA,Economics,4th Year,Government,Family Preference,63629,5,3,2,5,Not Preparing,TNPSC,Data Analytics,Excel,Other Tamil Nadu,Yes,Yes,3
+1069,21,Male,B.Sc,Engineering,1st Year,Government,Job Security,68965,5,5,2,1,Not Preparing,None,Data Analytics,Communication,Bangalore,Yes,No,5
+1070,23,Male,B.E,Statistics,4th Year,Government,Salary,67721,3,3,1,5,Preparing,None,Data Analytics,Java,Bangalore,Yes,No,5
+1071,19,Male,B.Tech,Economics,3rd Year,Private,Skill Development,20454,3,3,5,4,Planning,Banking,None,Java,Other Tamil Nadu,Yes,No,5
+1072,19,Female,BCA,Commerce,3rd Year,Government,Salary,50918,2,1,1,3,Preparing,SSC,Banking,SQL,Bangalore,Yes,Yes,5
+1073,18,Female,B.Sc,Economics,4th Year,Private,Salary,41181,4,2,4,1,Preparing,Banking,IT,Java,Bangalore,Maybe,No,2
+1074,19,Male,B.Tech,Engineering,3rd Year,Private,Salary,30386,4,1,4,4,Planning,Banking,Data Analytics,Java,Other Tamil Nadu,Yes,Yes,4
+1075,22,Male,B.Com,Economics,3rd Year,Private,Passion,54182,2,5,5,2,Not Preparing,Banking,IT,Power BI,Bangalore,Yes,Yes,4
+1076,19,Male,B.Sc,Computer Science,4th Year,Private,Career Growth,52425,4,3,4,3,Preparing,Railway,Banking,Data Analysis,Bangalore,No,No,3
+1077,21,Female,B.Tech,Engineering,2nd Year,Private,Career Growth,71099,1,4,2,4,Not Preparing,Railway,None,Java,Other India,No,Yes,4
+1078,21,Male,B.Com,Management,1st Year,Both,Career Growth,58254,4,4,1,4,Not Preparing,Railway,Banking,Java,Other India,Maybe,Yes,3
+1079,24,Female,B.E,Commerce,3rd Year,Private,Passion,39327,2,3,2,1,Planning,Banking,Business,Excel,Chennai,Maybe,Yes,4
+1080,21,Male,BCA,Computer Science,2nd Year,Private,Career Growth,67814,4,1,4,2,Preparing,SSC,Data Analytics,Data Analysis,Other India,No,Yes,1
+1081,24,Male,B.Com,Management,3rd Year,Private,Work-Life Balance,68634,5,2,1,4,Preparing,Banking,None,Excel,Other India,No,Yes,1
+1082,21,Male,BBA,Economics,3rd Year,Private,Salary,36181,3,1,2,3,Not Preparing,TNPSC,Business,Python,Chennai,Yes,No,4
+1083,22,Male,B.A,Engineering,1st Year,Government,Family Preference,62662,1,3,5,4,Not Preparing,SSC,Data Analytics,Python,Bangalore,Yes,No,2
+1084,25,Female,B.Com,Commerce,3rd Year,Government,Family Preference,36452,5,3,2,5,Planning,Railway,Banking,Java,Bangalore,Maybe,Yes,3
+1085,24,Female,B.Com,Computer Science,1st Year,Government,Salary,53248,5,2,4,3,Not Preparing,None,Banking,Java,Other India,No,Yes,4
+1086,20,Male,BCA,Management,1st Year,Both,Salary,55801,2,5,1,3,Planning,None,Core Industry,SQL,Chennai,Maybe,No,3
+1087,23,Male,B.A,Management,1st Year,Private,Career Growth,48751,3,5,5,4,Preparing,Other,Core Industry,Python,Bangalore,Yes,No,5
+1088,18,Female,BBA,Commerce,2nd Year,Both,Salary,36991,3,2,1,1,Planning,SSC,Banking,Power BI,Anywhere,Maybe,No,4
+1089,21,Female,B.Tech,Arts,4th Year,Private,Skill Development,56311,1,5,5,3,Not Preparing,Railway,Banking,Java,Other Tamil Nadu,Maybe,Yes,2
+1090,19,Female,B.Tech,Economics,2nd Year,Private,Career Growth,24916,2,4,1,5,Preparing,SSC,IT,Power BI,Other Tamil Nadu,Maybe,No,5
+1091,25,Female,B.Com,Commerce,4th Year,Government,Job Security,25143,1,5,4,1,Planning,SSC,IT,Java,Other Tamil Nadu,Yes,No,4
+1092,21,Male,B.A,Management,4th Year,Private,Salary,40855,4,5,5,1,Preparing,None,Business,Power BI,Other India,Maybe,Yes,1
+1093,19,Female,B.A,Statistics,1st Year,Private,Work-Life Balance,30581,5,5,3,1,Planning,Banking,Core Industry,Communication,Other Tamil Nadu,Yes,Yes,4
+1094,23,Male,BBA,Computer Science,3rd Year,Both,Salary,16907,1,4,1,3,Not Preparing,TNPSC,Core Industry,Power BI,Other Tamil Nadu,No,No,1
+1095,23,Female,BCA,Commerce,1st Year,Government,Job Security,44424,5,5,1,1,Not Preparing,Other,Banking,Data Analysis,Anywhere,Maybe,Yes,1
+1096,23,Female,B.E,Arts,3rd Year,Private,Career Growth,38308,2,4,2,4,Preparing,Railway,Banking,Python,Bangalore,Maybe,No,4
+1097,19,Female,B.Tech,Management,4th Year,Private,Work-Life Balance,56984,4,2,5,1,Preparing,SSC,Business,Java,Anywhere,Yes,No,4
+1098,21,Female,BCA,Economics,1st Year,Private,Skill Development,56505,2,1,3,5,Preparing,Other,None,Python,Other India,Maybe,Yes,1
+1099,23,Female,B.Sc,Management,3rd Year,Private,Career Growth,61525,4,2,4,2,Planning,SSC,None,Data Analysis,Other Tamil Nadu,Yes,Yes,3
+1100,22,Male,B.Tech,Economics,2nd Year,Private,Career Growth,51942,4,1,2,5,Not Preparing,None,None,Data Analysis,Bangalore,Maybe,No,5
+1101,24,Male,BCA,Commerce,3rd Year,Government,Job Security,77699,5,2,3,3,Preparing,TNPSC,Core Industry,Power BI,Other Tamil Nadu,No,Yes,2
+1102,19,Female,B.Tech,Economics,1st Year,Private,Career Growth,41957,2,1,5,1,Preparing,None,IT,Excel,Other Tamil Nadu,No,Yes,4
+1103,19,Female,B.E,Engineering,2nd Year,Private,Work-Life Balance,40464,2,1,3,1,Preparing,Other,None,Excel,Other India,No,Yes,5
+1104,21,Male,B.Sc,Engineering,3rd Year,Both,Work-Life Balance,63476,1,3,1,4,Planning,Railway,Data Analytics,Data Analysis,Other Tamil Nadu,Maybe,Yes,5
+1105,19,Female,B.E,Engineering,3rd Year,Private,Salary,38649,2,1,1,1,Preparing,SSC,Business,Excel,Chennai,Maybe,Yes,3
+1106,19,Female,BBA,Arts,3rd Year,Government,Social Status,57065,1,1,2,5,Preparing,TNPSC,None,Java,Bangalore,No,Yes,5
+1107,23,Male,B.Sc,Arts,3rd Year,Government,Job Security,42125,3,3,5,3,Planning,None,Data Analytics,SQL,Bangalore,No,Yes,4
+1108,21,Female,B.Com,Statistics,3rd Year,Both,Job Security,49758,3,5,5,2,Planning,Other,None,Communication,Chennai,Yes,No,5
+1109,23,Female,BCA,Arts,2nd Year,Private,Passion,20596,3,5,3,1,Preparing,None,IT,Power BI,Other India,Yes,Yes,4
+1110,24,Male,B.Sc,Commerce,4th Year,Both,Career Growth,31374,2,3,2,2,Preparing,SSC,IT,SQL,Other Tamil Nadu,No,No,4
+1111,25,Male,BBA,Management,2nd Year,Government,Social Status,68150,2,4,5,1,Planning,SSC,None,Excel,Other Tamil Nadu,No,Yes,1
+1112,24,Male,BBA,Management,2nd Year,Private,Career Growth,18775,1,1,1,3,Not Preparing,Railway,Data Analytics,Power BI,Bangalore,Maybe,No,3
+1113,25,Female,B.E,Statistics,2nd Year,Private,Career Growth,42388,4,1,3,5,Planning,TNPSC,Business,SQL,Other India,No,Yes,2
+1114,23,Male,B.Tech,Arts,4th Year,Both,Salary,73264,1,3,4,3,Not Preparing,Banking,Data Analytics,Python,Other India,Yes,No,1
+1115,24,Male,B.Sc,Economics,1st Year,Government,Salary,36029,3,3,1,2,Preparing,None,Business,Excel,Other India,Yes,Yes,2
+1116,21,Male,BCA,Statistics,4th Year,Private,Skill Development,33445,1,4,2,1,Preparing,SSC,None,SQL,Other Tamil Nadu,Yes,No,4
+1117,18,Male,B.Sc,Economics,2nd Year,Private,Work-Life Balance,68639,4,5,5,2,Not Preparing,Other,Business,Java,Other India,Yes,Yes,1
+1118,23,Male,B.A,Economics,3rd Year,Government,Work-Life Balance,63474,2,2,1,5,Planning,None,Banking,Python,Chennai,Yes,Yes,5
+1119,25,Male,B.Tech,Computer Science,3rd Year,Private,Passion,29645,1,5,4,3,Preparing,Railway,Core Industry,Excel,Anywhere,Yes,No,5
+1120,22,Female,BCA,Management,2nd Year,Private,Passion,46105,3,1,4,2,Not Preparing,Railway,Core Industry,Communication,Other India,No,No,2
+1121,25,Female,BCA,Engineering,3rd Year,Both,Salary,79720,3,3,2,2,Planning,SSC,IT,Data Analysis,Anywhere,Yes,Yes,4
+1122,22,Male,B.Com,Arts,2nd Year,Private,Salary,28668,2,4,1,5,Not Preparing,SSC,Banking,Excel,Other Tamil Nadu,Yes,No,2
+1123,19,Male,B.E,Economics,3rd Year,Government,Job Security,77413,1,5,3,1,Planning,SSC,Core Industry,Java,Other India,Yes,No,3
+1124,24,Male,B.Com,Computer Science,4th Year,Government,Work-Life Balance,30960,4,4,1,2,Planning,Banking,None,Communication,Bangalore,Yes,Yes,5
+1125,22,Female,BCA,Management,1st Year,Government,Family Preference,75983,2,5,4,5,Planning,SSC,Business,Communication,Other Tamil Nadu,No,No,1
+1126,25,Female,B.Tech,Engineering,1st Year,Government,Job Security,26357,1,1,2,1,Planning,None,Business,Communication,Chennai,Maybe,Yes,1
+1127,19,Female,B.Sc,Economics,4th Year,Private,Skill Development,79604,5,2,2,1,Not Preparing,None,Data Analytics,Power BI,Chennai,Maybe,No,1
+1128,18,Female,B.Sc,Economics,4th Year,Government,Work-Life Balance,52203,3,4,3,3,Not Preparing,TNPSC,Data Analytics,Power BI,Anywhere,Maybe,Yes,5
+1129,21,Female,B.Tech,Statistics,2nd Year,Both,Job Security,66796,4,4,2,5,Not Preparing,Other,Business,Data Analysis,Anywhere,Maybe,No,4
+1130,21,Female,BCA,Statistics,2nd Year,Both,Career Growth,30804,4,2,2,1,Not Preparing,SSC,None,Communication,Bangalore,Yes,Yes,5
+1131,21,Female,BBA,Management,2nd Year,Private,Salary,77196,4,4,2,3,Not Preparing,None,Business,Data Analysis,Bangalore,Maybe,Yes,5
+1132,22,Female,B.Sc,Engineering,3rd Year,Both,Salary,65197,3,4,2,4,Planning,None,Data Analytics,Python,Chennai,Maybe,No,1
+1133,18,Female,BBA,Economics,2nd Year,Private,Career Growth,29626,1,5,2,5,Preparing,None,Core Industry,Communication,Other India,No,No,5
+1134,22,Male,B.Sc,Management,4th Year,Private,Career Growth,43132,2,5,4,4,Preparing,Banking,IT,SQL,Chennai,No,Yes,1
+1135,24,Male,B.Sc,Management,1st Year,Government,Work-Life Balance,22951,1,2,1,1,Not Preparing,Other,Data Analytics,Communication,Chennai,No,Yes,4
+1136,22,Male,B.E,Commerce,3rd Year,Private,Career Growth,21449,2,1,5,5,Not Preparing,Railway,None,Power BI,Bangalore,Yes,No,3
+1137,18,Male,B.E,Arts,2nd Year,Private,Passion,34065,4,4,2,3,Preparing,None,Core Industry,Power BI,Anywhere,Yes,No,1
+1138,18,Female,B.A,Statistics,3rd Year,Both,Job Security,50967,1,1,5,1,Planning,SSC,Core Industry,SQL,Bangalore,Yes,No,2
+1139,24,Female,B.Com,Engineering,3rd Year,Private,Skill Development,54536,4,2,5,5,Not Preparing,None,Core Industry,SQL,Bangalore,No,No,3
+1140,18,Male,B.Tech,Economics,2nd Year,Both,Career Growth,24130,5,2,4,5,Planning,Other,Banking,Excel,Bangalore,Maybe,No,4
+1141,25,Female,B.Tech,Management,3rd Year,Private,Skill Development,38824,4,5,2,4,Preparing,Railway,Banking,Python,Chennai,No,No,3
+1142,18,Male,B.Tech,Economics,1st Year,Government,Family Preference,77287,4,4,5,1,Preparing,Banking,Core Industry,Python,Other India,Yes,Yes,1
+1143,21,Female,B.A,Commerce,4th Year,Both,Salary,56401,2,3,2,3,Not Preparing,TNPSC,None,Python,Chennai,No,No,4
+1144,25,Male,B.E,Engineering,4th Year,Private,Career Growth,66702,5,2,3,3,Planning,SSC,Business,Java,Other Tamil Nadu,Maybe,No,2
+1145,25,Female,BCA,Management,1st Year,Government,Social Status,51993,4,4,3,1,Not Preparing,TNPSC,None,Power BI,Bangalore,Yes,No,1
+1146,24,Female,BBA,Economics,3rd Year,Private,Career Growth,46875,4,1,3,1,Preparing,Banking,Banking,Python,Bangalore,Maybe,No,1
+1147,20,Male,BBA,Statistics,2nd Year,Government,Job Security,64748,5,5,5,2,Planning,Other,Data Analytics,Excel,Other Tamil Nadu,Maybe,Yes,4
+1148,20,Female,BCA,Arts,3rd Year,Private,Salary,21054,5,1,3,4,Not Preparing,Other,Banking,Excel,Bangalore,Yes,Yes,4
+1149,18,Male,B.A,Commerce,1st Year,Private,Career Growth,49273,1,2,4,1,Not Preparing,Banking,Business,Python,Bangalore,Maybe,Yes,3
+1150,25,Male,BCA,Engineering,3rd Year,Government,Work-Life Balance,56821,2,2,4,1,Not Preparing,None,IT,SQL,Bangalore,No,Yes,2
+1151,20,Male,B.Tech,Commerce,4th Year,Both,Salary,63517,5,1,5,2,Preparing,Banking,Banking,Excel,Other Tamil Nadu,Maybe,No,3
+1152,20,Male,B.Com,Statistics,3rd Year,Private,Passion,25832,5,2,2,2,Not Preparing,SSC,None,Data Analysis,Chennai,Maybe,Yes,3
+1153,18,Female,B.Sc,Engineering,1st Year,Government,Social Status,44670,3,4,1,5,Planning,Railway,None,SQL,Bangalore,Maybe,No,1
+1154,20,Female,BBA,Commerce,4th Year,Private,Skill Development,64112,5,2,2,3,Not Preparing,TNPSC,Core Industry,Data Analysis,Other India,No,No,4
+1155,22,Female,B.E,Computer Science,3rd Year,Both,Job Security,37852,2,5,2,4,Preparing,TNPSC,Core Industry,Power BI,Other Tamil Nadu,Maybe,Yes,1
+1156,19,Male,B.E,Statistics,3rd Year,Government,Social Status,38620,4,4,2,5,Not Preparing,Other,Core Industry,Java,Anywhere,Maybe,Yes,2
+1157,24,Female,B.A,Statistics,4th Year,Government,Job Security,43307,4,3,2,1,Preparing,None,IT,Excel,Other Tamil Nadu,No,No,3
+1158,19,Male,B.E,Statistics,2nd Year,Government,Social Status,62551,4,2,1,2,Preparing,Other,Business,SQL,Chennai,Yes,Yes,2
+1159,18,Female,B.Tech,Computer Science,4th Year,Government,Social Status,16551,4,2,3,3,Planning,SSC,Data Analytics,Data Analysis,Other Tamil Nadu,Yes,Yes,4
+1160,21,Female,BBA,Computer Science,2nd Year,Private,Skill Development,62922,3,5,2,5,Planning,Banking,None,Python,Anywhere,Yes,No,4
+1161,24,Female,BCA,Economics,1st Year,Private,Skill Development,78080,5,5,4,3,Not Preparing,TNPSC,None,Data Analysis,Other India,Maybe,No,5
+1162,18,Male,B.Tech,Management,1st Year,Government,Job Security,42812,4,1,5,2,Preparing,SSC,Business,Data Analysis,Anywhere,Yes,No,2
+1163,25,Female,B.A,Arts,4th Year,Private,Salary,28799,1,1,5,5,Preparing,Other,IT,Power BI,Other Tamil Nadu,No,No,1
+1164,21,Female,B.Tech,Commerce,4th Year,Government,Social Status,41312,4,1,4,5,Planning,Other,Core Industry,Communication,Anywhere,Maybe,No,2
+1165,19,Male,BCA,Economics,1st Year,Both,Salary,54620,5,5,2,3,Planning,TNPSC,Business,Communication,Other Tamil Nadu,Maybe,Yes,3
+1166,18,Female,B.Com,Commerce,2nd Year,Both,Work-Life Balance,16449,4,1,1,2,Not Preparing,Other,Data Analytics,Python,Other India,Maybe,No,4
+1167,25,Male,B.A,Arts,1st Year,Government,Job Security,70105,3,1,3,1,Preparing,None,Core Industry,Power BI,Other India,Yes,No,4
+1168,24,Female,B.Com,Management,4th Year,Both,Salary,72608,2,3,5,5,Planning,Other,Data Analytics,Power BI,Chennai,Yes,No,2
+1169,24,Male,B.Sc,Computer Science,1st Year,Private,Career Growth,39426,2,1,3,1,Not Preparing,Railway,Banking,Power BI,Other India,Yes,Yes,2
+1170,23,Male,B.Com,Management,4th Year,Government,Job Security,50427,5,2,1,2,Preparing,Banking,Data Analytics,Power BI,Bangalore,Maybe,No,2
+1171,25,Female,B.Sc,Computer Science,4th Year,Government,Salary,55277,2,5,5,5,Preparing,Other,Core Industry,Communication,Anywhere,No,No,3
+1172,22,Male,B.Sc,Arts,1st Year,Private,Career Growth,46551,2,4,3,5,Planning,Railway,Banking,SQL,Anywhere,Maybe,Yes,3
+1173,20,Male,B.Com,Management,2nd Year,Private,Work-Life Balance,39277,1,3,1,1,Not Preparing,SSC,Core Industry,Power BI,Other Tamil Nadu,No,No,1
+1174,21,Male,B.A,Economics,3rd Year,Both,Job Security,71597,5,5,3,4,Planning,Other,None,SQL,Other India,Maybe,No,2
+1175,25,Male,BCA,Engineering,1st Year,Private,Career Growth,50489,5,5,2,1,Not Preparing,None,Core Industry,Data Analysis,Chennai,No,No,1
+1176,23,Male,B.Tech,Economics,3rd Year,Both,Job Security,73806,2,2,1,1,Preparing,SSC,Banking,Data Analysis,Chennai,Maybe,Yes,5
+1177,20,Male,B.Tech,Commerce,1st Year,Private,Passion,60212,2,1,3,4,Not Preparing,Other,Data Analytics,Power BI,Chennai,Maybe,Yes,3
+1178,20,Female,BCA,Economics,3rd Year,Private,Skill Development,24637,2,2,2,2,Not Preparing,TNPSC,None,Excel,Bangalore,No,No,4
+1179,18,Male,BBA,Arts,2nd Year,Private,Career Growth,58258,3,1,2,2,Not Preparing,Railway,IT,Java,Other India,No,No,5
+1180,20,Male,BBA,Statistics,2nd Year,Government,Social Status,50693,4,1,1,5,Not Preparing,Railway,IT,Excel,Chennai,No,No,4
+1181,22,Female,B.Sc,Commerce,1st Year,Private,Passion,24824,3,5,4,3,Not Preparing,TNPSC,IT,Data Analysis,Bangalore,No,Yes,5
+1182,24,Female,B.Sc,Management,4th Year,Private,Career Growth,79017,5,1,5,3,Planning,Banking,IT,Java,Anywhere,No,Yes,1
+1183,23,Female,B.A,Commerce,3rd Year,Government,Job Security,41950,1,3,1,5,Not Preparing,None,Business,Excel,Other Tamil Nadu,No,Yes,1
+1184,20,Female,B.E,Engineering,4th Year,Private,Skill Development,38488,4,3,2,3,Not Preparing,Railway,IT,Power BI,Other India,No,Yes,3
+1185,18,Female,B.Com,Computer Science,4th Year,Government,Job Security,77334,1,3,2,1,Preparing,SSC,Banking,SQL,Other India,No,Yes,4
+1186,22,Female,B.Sc,Management,4th Year,Private,Passion,54008,5,5,1,1,Not Preparing,None,IT,Java,Anywhere,Maybe,Yes,5
+1187,19,Female,B.Tech,Commerce,2nd Year,Private,Salary,64664,5,2,4,4,Preparing,Railway,Core Industry,Communication,Other India,No,No,2
+1188,24,Male,B.A,Management,1st Year,Government,Family Preference,15215,1,4,5,4,Planning,Banking,IT,Python,Other India,No,Yes,2
+1189,24,Male,B.Com,Management,1st Year,Government,Work-Life Balance,55067,1,1,3,5,Planning,SSC,Data Analytics,Java,Other India,Maybe,No,3
+1190,23,Female,B.A,Management,2nd Year,Government,Job Security,26523,1,4,1,5,Not Preparing,None,Banking,Java,Other India,Maybe,Yes,4
+1191,24,Male,B.Com,Computer Science,2nd Year,Both,Salary,25364,5,2,5,5,Planning,SSC,Banking,Communication,Bangalore,Yes,No,2
+1192,20,Male,B.Com,Arts,1st Year,Government,Work-Life Balance,18153,2,2,5,1,Not Preparing,TNPSC,None,Power BI,Bangalore,Yes,Yes,3
+1193,18,Male,BCA,Economics,4th Year,Both,Work-Life Balance,38834,1,5,2,3,Planning,Other,Business,Excel,Other Tamil Nadu,No,No,3
+1194,24,Female,B.Sc,Management,3rd Year,Government,Social Status,49474,4,3,3,5,Not Preparing,TNPSC,Core Industry,Excel,Other India,No,No,4
+1195,24,Female,B.A,Statistics,3rd Year,Both,Career Growth,58066,5,3,1,5,Not Preparing,None,Banking,Data Analysis,Anywhere,Yes,No,2
+1196,19,Male,B.A,Arts,3rd Year,Both,Salary,49335,3,2,2,1,Preparing,Other,Data Analytics,SQL,Chennai,Yes,Yes,2
+1197,19,Female,BCA,Engineering,4th Year,Private,Career Growth,25400,3,5,2,1,Preparing,TNPSC,IT,Power BI,Other Tamil Nadu,No,Yes,2
+1198,21,Male,B.Tech,Computer Science,1st Year,Private,Skill Development,74675,4,5,4,1,Preparing,Other,Banking,Communication,Chennai,Yes,Yes,1
+1199,22,Male,B.Tech,Commerce,2nd Year,Private,Career Growth,25345,2,1,5,3,Preparing,Railway,Data Analytics,Power BI,Chennai,No,No,2
+1200,20,Male,BBA,Computer Science,1st Year,Private,Salary,48896,1,3,1,5,Not Preparing,SSC,IT,Power BI,Other India,Maybe,No,5
+1201,24,Male,B.Sc,Commerce,4th Year,Government,Work-Life Balance,34894,5,2,1,2,Planning,Other,Business,Excel,Anywhere,Maybe,No,1
+1202,25,Female,B.Sc,Computer Science,2nd Year,Government,Family Preference,43899,1,4,1,2,Not Preparing,Railway,Banking,Communication,Chennai,Yes,Yes,1
+1203,24,Female,B.E,Commerce,4th Year,Government,Job Security,55635,5,3,2,5,Preparing,Banking,Banking,Python,Chennai,Maybe,Yes,1
+1204,18,Female,BCA,Management,3rd Year,Government,Job Security,43229,3,1,4,5,Preparing,TNPSC,Data Analytics,Java,Other Tamil Nadu,Maybe,No,1
+1205,21,Male,B.Tech,Economics,3rd Year,Government,Work-Life Balance,66517,1,5,3,5,Planning,Banking,None,Excel,Anywhere,Maybe,Yes,3
+1206,22,Female,B.Com,Commerce,4th Year,Private,Skill Development,20583,4,2,2,5,Preparing,None,Core Industry,Communication,Anywhere,Maybe,Yes,5
+1207,25,Male,B.A,Commerce,2nd Year,Both,Career Growth,19897,2,3,3,3,Not Preparing,Railway,Business,SQL,Chennai,No,Yes,4
+1208,21,Female,B.Sc,Statistics,2nd Year,Government,Family Preference,69870,4,4,4,2,Not Preparing,Banking,Core Industry,Java,Anywhere,No,Yes,2
+1209,23,Male,B.A,Commerce,1st Year,Private,Passion,21001,2,1,5,4,Not Preparing,Banking,Banking,Java,Other Tamil Nadu,Yes,No,1
+1210,22,Male,B.A,Statistics,3rd Year,Government,Job Security,58881,1,1,1,2,Not Preparing,Railway,Core Industry,Excel,Other Tamil Nadu,Maybe,Yes,4
+1211,24,Male,B.E,Engineering,1st Year,Private,Career Growth,19567,1,3,3,2,Not Preparing,SSC,IT,Data Analysis,Other Tamil Nadu,Maybe,Yes,3
+1212,24,Female,B.Tech,Management,1st Year,Both,Job Security,24271,2,4,2,1,Planning,Other,Business,SQL,Other India,Maybe,No,4
+1213,22,Female,B.Sc,Statistics,4th Year,Both,Work-Life Balance,79112,3,1,3,5,Not Preparing,None,Core Industry,Excel,Chennai,Yes,No,1
+1214,24,Female,B.A,Economics,4th Year,Both,Salary,62116,5,2,5,5,Preparing,None,IT,Power BI,Anywhere,No,Yes,5
+1215,20,Female,B.Sc,Arts,1st Year,Government,Work-Life Balance,26703,4,1,1,5,Preparing,TNPSC,Data Analytics,Data Analysis,Other Tamil Nadu,Maybe,Yes,4
+1216,22,Male,B.Com,Management,3rd Year,Private,Skill Development,28329,4,4,3,1,Preparing,Other,Core Industry,Communication,Chennai,No,Yes,1
+1217,21,Female,B.E,Statistics,4th Year,Private,Career Growth,50509,4,5,5,3,Preparing,TNPSC,Business,SQL,Chennai,Yes,Yes,1
+1218,22,Female,B.Com,Management,1st Year,Government,Work-Life Balance,67172,1,5,2,3,Planning,None,IT,Java,Other India,No,No,2
+1219,25,Male,B.Sc,Management,1st Year,Both,Work-Life Balance,21256,4,3,4,4,Preparing,Other,Core Industry,Excel,Anywhere,Maybe,No,2
+1220,24,Male,BBA,Management,1st Year,Government,Job Security,15228,5,4,2,3,Planning,Banking,Data Analytics,Java,Anywhere,No,No,5
+1221,20,Male,B.Sc,Engineering,1st Year,Private,Salary,39746,5,1,1,3,Preparing,SSC,Core Industry,SQL,Other Tamil Nadu,No,Yes,2
+1222,20,Female,B.Tech,Economics,1st Year,Government,Salary,31678,2,1,2,5,Planning,Banking,IT,Java,Other Tamil Nadu,Yes,Yes,5
+1223,23,Male,B.A,Computer Science,1st Year,Government,Social Status,52052,1,5,2,2,Planning,SSC,Core Industry,Excel,Chennai,Yes,No,3
+1224,21,Male,B.A,Computer Science,4th Year,Private,Work-Life Balance,72769,5,5,2,3,Planning,Railway,Business,Data Analysis,Anywhere,Yes,Yes,3
+1225,19,Male,B.Com,Statistics,3rd Year,Private,Salary,61032,3,2,2,3,Preparing,TNPSC,Banking,Excel,Anywhere,Yes,No,2
+1226,19,Female,B.E,Management,1st Year,Government,Social Status,61158,1,5,1,1,Planning,TNPSC,IT,Python,Other Tamil Nadu,No,No,3
+1227,22,Male,BBA,Statistics,2nd Year,Government,Salary,38185,1,2,5,4,Not Preparing,Railway,IT,Java,Bangalore,No,No,4
+1228,23,Female,BCA,Engineering,4th Year,Private,Salary,48686,5,1,3,1,Not Preparing,Other,IT,Python,Chennai,Yes,No,4
+1229,18,Female,B.A,Engineering,4th Year,Government,Job Security,26445,3,2,4,5,Preparing,Railway,IT,Data Analysis,Anywhere,Yes,No,4
+1230,22,Male,B.Tech,Commerce,1st Year,Government,Job Security,48266,2,2,3,2,Not Preparing,None,Core Industry,Python,Other India,Maybe,No,3
+1231,23,Male,B.Com,Engineering,4th Year,Both,Career Growth,78261,5,3,3,4,Not Preparing,Railway,Business,Java,Other India,Maybe,No,4
+1232,21,Female,B.Com,Commerce,1st Year,Private,Skill Development,17809,3,5,4,1,Not Preparing,SSC,Data Analytics,SQL,Bangalore,Yes,Yes,5
+1233,21,Male,BCA,Economics,3rd Year,Government,Job Security,52729,1,2,1,3,Preparing,None,Business,Power BI,Other Tamil Nadu,No,No,1
+1234,21,Male,B.Tech,Statistics,3rd Year,Private,Work-Life Balance,56785,3,1,4,3,Preparing,Railway,IT,Data Analysis,Other Tamil Nadu,Yes,No,2
+1235,21,Female,B.E,Arts,4th Year,Private,Career Growth,51547,1,4,1,4,Not Preparing,TNPSC,None,Excel,Other Tamil Nadu,No,Yes,5
+1236,21,Female,B.Tech,Economics,4th Year,Both,Salary,57818,5,2,3,3,Preparing,Banking,Core Industry,Communication,Other India,No,No,4
+1237,23,Male,B.E,Engineering,2nd Year,Private,Salary,49886,5,5,1,1,Planning,SSC,None,Data Analysis,Other Tamil Nadu,Maybe,Yes,1
+1238,23,Female,B.Tech,Economics,4th Year,Government,Work-Life Balance,21391,4,3,5,1,Not Preparing,SSC,Core Industry,Python,Other India,Yes,No,2
+1239,20,Male,B.Tech,Economics,2nd Year,Government,Job Security,15145,4,1,4,3,Preparing,Other,IT,SQL,Bangalore,Yes,Yes,5
+1240,25,Male,B.Sc,Economics,3rd Year,Government,Job Security,28929,4,3,5,3,Preparing,Banking,Core Industry,Java,Chennai,No,Yes,2
+1241,19,Male,B.Com,Engineering,3rd Year,Private,Work-Life Balance,39326,5,4,3,5,Not Preparing,SSC,IT,SQL,Anywhere,Yes,Yes,3
+1242,24,Female,B.Tech,Arts,1st Year,Government,Job Security,44991,2,2,4,2,Preparing,Railway,Business,SQL,Bangalore,Maybe,No,4
+1243,21,Male,BCA,Management,3rd Year,Private,Salary,62685,5,2,3,4,Not Preparing,SSC,Banking,Java,Other India,Maybe,Yes,5
+1244,18,Male,B.Tech,Economics,2nd Year,Government,Social Status,52333,3,5,5,1,Preparing,SSC,Core Industry,Communication,Bangalore,Yes,No,5
+1245,24,Male,B.A,Commerce,4th Year,Government,Job Security,75921,5,2,3,4,Planning,SSC,IT,Java,Anywhere,Yes,No,1
+1246,23,Female,B.Com,Engineering,1st Year,Both,Career Growth,31576,5,1,4,5,Not Preparing,Other,None,Communication,Chennai,Maybe,No,1
+1247,18,Female,B.A,Economics,2nd Year,Private,Salary,69339,1,4,4,1,Planning,SSC,IT,Java,Anywhere,Yes,No,1
+1248,18,Female,B.Com,Arts,4th Year,Government,Job Security,54405,1,3,3,5,Not Preparing,SSC,None,Python,Other India,No,No,2
+1249,18,Female,B.A,Management,1st Year,Private,Career Growth,43464,1,4,4,5,Preparing,Other,Core Industry,Communication,Anywhere,Yes,No,4
+1250,20,Female,B.Tech,Engineering,3rd Year,Government,Job Security,23243,5,2,4,3,Planning,None,Data Analytics,Python,Bangalore,No,No,2
+1251,23,Male,B.Tech,Computer Science,2nd Year,Private,Salary,46601,2,3,3,4,Preparing,Banking,None,Data Analysis,Other Tamil Nadu,Yes,Yes,4
+1252,18,Female,B.Sc,Management,4th Year,Private,Career Growth,17410,3,5,5,4,Not Preparing,None,IT,Communication,Bangalore,Yes,No,5
+1253,21,Female,BCA,Commerce,1st Year,Government,Social Status,16820,3,4,4,3,Not Preparing,TNPSC,Core Industry,Communication,Other India,Maybe,No,2
+1254,22,Female,B.A,Economics,1st Year,Private,Salary,67116,2,3,4,4,Not Preparing,Other,IT,Java,Chennai,No,Yes,2
+1255,18,Male,B.E,Arts,3rd Year,Private,Salary,50289,2,3,4,3,Not Preparing,Other,Data Analytics,Communication,Anywhere,Maybe,No,2
+1256,20,Female,B.Sc,Computer Science,4th Year,Private,Passion,74213,3,3,4,1,Not Preparing,SSC,Banking,Python,Chennai,Yes,Yes,3
+1257,24,Female,B.A,Arts,3rd Year,Government,Work-Life Balance,66720,4,1,3,5,Planning,SSC,Data Analytics,Data Analysis,Other India,Maybe,Yes,4
+1258,23,Male,B.A,Computer Science,3rd Year,Government,Job Security,53650,1,4,5,5,Not Preparing,TNPSC,Business,Java,Anywhere,Yes,No,4
+1259,25,Female,B.Sc,Engineering,4th Year,Both,Work-Life Balance,77894,1,3,5,4,Preparing,SSC,Core Industry,Excel,Bangalore,Yes,No,2
+1260,20,Male,B.Tech,Computer Science,4th Year,Government,Job Security,49635,3,4,1,2,Planning,Railway,Data Analytics,Data Analysis,Bangalore,Yes,Yes,3
+1261,18,Male,B.A,Commerce,4th Year,Private,Career Growth,22465,2,3,4,5,Preparing,SSC,Banking,Data Analysis,Other India,No,No,2
+1262,23,Male,B.Tech,Commerce,2nd Year,Private,Passion,71754,4,5,4,3,Not Preparing,SSC,IT,Python,Anywhere,No,Yes,4
+1263,22,Male,B.Sc,Statistics,4th Year,Private,Salary,47439,3,5,1,2,Preparing,Railway,Core Industry,Data Analysis,Bangalore,No,Yes,5
+1264,18,Male,B.Tech,Commerce,1st Year,Government,Salary,42314,1,5,5,2,Planning,TNPSC,None,Excel,Other India,Maybe,No,3
+1265,20,Female,B.Com,Management,3rd Year,Government,Job Security,59229,5,2,2,5,Planning,Railway,Data Analytics,SQL,Other India,Yes,Yes,3
+1266,19,Male,B.E,Computer Science,2nd Year,Private,Salary,34583,2,3,2,5,Planning,Other,Banking,Java,Chennai,Maybe,No,2
+1267,21,Male,BBA,Commerce,4th Year,Government,Job Security,42155,5,2,5,5,Preparing,Railway,Data Analytics,SQL,Bangalore,Maybe,No,5
+1268,25,Female,B.A,Engineering,2nd Year,Government,Family Preference,53871,3,4,4,3,Planning,Banking,Business,Java,Anywhere,Yes,Yes,4
+1269,24,Male,BCA,Arts,4th Year,Government,Job Security,77874,1,2,2,2,Preparing,Other,Core Industry,Data Analysis,Bangalore,Maybe,Yes,1
+1270,20,Female,B.E,Arts,2nd Year,Government,Social Status,27197,4,4,3,4,Not Preparing,SSC,IT,Java,Bangalore,Yes,No,4
+1271,23,Female,BBA,Statistics,3rd Year,Both,Job Security,44511,5,4,3,3,Not Preparing,Other,Banking,Python,Bangalore,Yes,No,4
+1272,25,Female,B.Tech,Arts,3rd Year,Government,Social Status,30424,4,4,1,1,Preparing,TNPSC,Data Analytics,Excel,Other India,Yes,No,5
+1273,25,Male,B.A,Computer Science,1st Year,Government,Work-Life Balance,63821,1,2,5,5,Planning,TNPSC,Core Industry,Java,Other Tamil Nadu,Yes,Yes,3
+1274,25,Male,B.Tech,Statistics,1st Year,Government,Work-Life Balance,15240,5,3,5,2,Preparing,Railway,Data Analytics,Excel,Other Tamil Nadu,Maybe,No,4
+1275,18,Male,B.Com,Computer Science,4th Year,Private,Salary,67592,4,2,2,3,Preparing,Other,Core Industry,Java,Chennai,Maybe,Yes,3
+1276,21,Female,B.Sc,Engineering,3rd Year,Private,Career Growth,19631,4,3,4,1,Preparing,SSC,Business,Excel,Bangalore,Maybe,Yes,5
+1277,18,Male,B.A,Statistics,2nd Year,Government,Job Security,24599,5,3,5,3,Not Preparing,TNPSC,Data Analytics,SQL,Other Tamil Nadu,No,Yes,5
+1278,23,Male,BBA,Economics,2nd Year,Private,Passion,59462,1,4,2,3,Preparing,None,Business,Python,Chennai,Maybe,No,2
+1279,18,Male,BBA,Management,2nd Year,Private,Passion,76382,4,2,2,4,Not Preparing,SSC,None,Java,Other India,Maybe,Yes,1
+1280,19,Female,B.Com,Management,1st Year,Both,Career Growth,39658,3,3,5,4,Preparing,None,None,Power BI,Bangalore,No,No,5
+1281,21,Female,B.Com,Computer Science,2nd Year,Private,Career Growth,52845,5,5,2,3,Not Preparing,Banking,Banking,Excel,Anywhere,Yes,Yes,5
+1282,21,Male,B.A,Arts,1st Year,Government,Job Security,47574,2,3,1,1,Preparing,None,Business,Excel,Other India,Yes,No,3
+1283,23,Male,B.Tech,Economics,1st Year,Government,Work-Life Balance,51536,2,5,1,2,Preparing,TNPSC,Core Industry,Power BI,Chennai,Yes,No,5
+1284,24,Male,BCA,Statistics,4th Year,Government,Salary,56910,1,2,5,2,Planning,Railway,Banking,Python,Other India,No,Yes,4
+1285,19,Male,BBA,Economics,2nd Year,Government,Social Status,22995,3,2,4,5,Planning,Banking,Data Analytics,Excel,Anywhere,Maybe,No,2
+1286,20,Female,BBA,Economics,2nd Year,Both,Work-Life Balance,40186,4,2,1,5,Preparing,Other,Data Analytics,Python,Other India,Maybe,Yes,2
+1287,18,Female,B.Com,Arts,3rd Year,Government,Job Security,44245,2,3,1,2,Preparing,SSC,Core Industry,Excel,Chennai,Maybe,Yes,4
+1288,22,Female,B.E,Statistics,4th Year,Government,Salary,37813,1,1,5,3,Preparing,TNPSC,IT,Data Analysis,Anywhere,Maybe,Yes,5
+1289,18,Female,B.Com,Engineering,3rd Year,Private,Salary,28276,3,3,3,3,Preparing,Banking,IT,Communication,Anywhere,No,Yes,1
+1290,25,Male,BCA,Arts,4th Year,Private,Salary,34989,3,3,2,4,Planning,Banking,Data Analytics,Data Analysis,Other India,Maybe,Yes,5
+1291,18,Male,B.Tech,Economics,2nd Year,Government,Job Security,27746,1,4,1,4,Not Preparing,TNPSC,Core Industry,Excel,Anywhere,Yes,Yes,2
+1292,20,Male,B.Tech,Economics,1st Year,Government,Job Security,59243,1,4,3,5,Preparing,Other,IT,Communication,Other India,No,Yes,1
+1293,18,Female,B.E,Engineering,1st Year,Government,Social Status,33557,4,3,4,2,Planning,Other,Business,Java,Bangalore,No,No,3
+1294,19,Male,BBA,Economics,1st Year,Private,Salary,43060,1,5,3,3,Preparing,Railway,Data Analytics,Python,Anywhere,Yes,Yes,3
+1295,19,Female,B.Com,Economics,1st Year,Government,Salary,73866,4,4,5,2,Preparing,None,None,Excel,Other India,Yes,Yes,5
+1296,21,Female,B.Tech,Economics,1st Year,Government,Family Preference,21568,4,3,4,1,Not Preparing,Other,Business,SQL,Bangalore,Maybe,No,5
+1297,23,Male,BCA,Management,3rd Year,Private,Passion,50369,5,1,4,2,Preparing,Railway,Core Industry,SQL,Anywhere,Yes,No,1
+1298,24,Male,B.A,Arts,4th Year,Government,Job Security,34041,3,5,3,1,Preparing,None,None,Power BI,Bangalore,No,Yes,1
+1299,22,Male,B.Sc,Commerce,2nd Year,Private,Skill Development,21080,3,2,5,4,Not Preparing,Banking,Business,SQL,Anywhere,No,Yes,5
+1300,25,Female,B.Sc,Arts,3rd Year,Private,Salary,28854,3,3,1,4,Not Preparing,TNPSC,IT,Communication,Chennai,No,Yes,2
+1301,18,Male,B.Sc,Engineering,4th Year,Government,Social Status,71477,5,3,3,5,Not Preparing,Other,IT,SQL,Chennai,Maybe,No,3
+1302,18,Female,BBA,Economics,1st Year,Both,Job Security,17159,4,5,1,2,Not Preparing,Railway,None,SQL,Other India,Maybe,Yes,1
+1303,20,Male,B.Com,Arts,4th Year,Private,Skill Development,42025,4,4,3,2,Planning,Banking,Banking,SQL,Other Tamil Nadu,Yes,No,2
+1304,23,Female,B.E,Management,4th Year,Government,Job Security,67982,1,4,1,1,Planning,Other,Data Analytics,Excel,Chennai,Maybe,Yes,5
+1305,19,Female,B.Tech,Engineering,1st Year,Private,Passion,56081,5,4,3,4,Planning,SSC,None,Power BI,Other Tamil Nadu,Maybe,Yes,4
+1306,22,Male,B.A,Computer Science,1st Year,Private,Career Growth,19368,1,2,4,1,Preparing,Banking,Core Industry,Python,Bangalore,No,No,1
+1307,21,Female,BCA,Arts,1st Year,Private,Career Growth,49085,5,5,2,4,Not Preparing,Other,Data Analytics,Power BI,Bangalore,No,Yes,4
+1308,19,Female,B.A,Computer Science,2nd Year,Government,Job Security,68645,1,5,4,1,Not Preparing,Banking,Business,Communication,Other Tamil Nadu,Yes,Yes,2
+1309,25,Male,BCA,Economics,1st Year,Both,Salary,42094,2,4,1,4,Planning,TNPSC,Core Industry,Excel,Other India,No,Yes,3
+1310,23,Female,BBA,Management,2nd Year,Government,Job Security,61040,3,4,5,1,Preparing,TNPSC,Core Industry,Java,Anywhere,Maybe,No,2
+1311,25,Male,B.Com,Management,1st Year,Government,Social Status,16230,3,1,4,4,Preparing,TNPSC,IT,Excel,Other Tamil Nadu,Yes,Yes,3
+1312,24,Female,B.Sc,Arts,2nd Year,Government,Family Preference,32517,4,1,2,1,Preparing,None,Business,Data Analysis,Other Tamil Nadu,Yes,Yes,2
+1313,21,Male,B.Com,Engineering,4th Year,Government,Job Security,38991,2,3,1,2,Planning,SSC,IT,SQL,Other Tamil Nadu,No,No,1
+1314,24,Male,BBA,Engineering,3rd Year,Private,Career Growth,16301,3,3,4,5,Preparing,TNPSC,IT,SQL,Other Tamil Nadu,No,No,1
+1315,20,Female,B.E,Management,4th Year,Government,Job Security,43610,4,5,3,1,Preparing,SSC,Banking,Communication,Other Tamil Nadu,No,Yes,4
+1316,25,Female,B.E,Engineering,4th Year,Government,Job Security,30927,2,5,5,5,Preparing,TNPSC,IT,Java,Other India,Yes,Yes,2
+1317,20,Female,BBA,Management,1st Year,Both,Salary,49678,3,2,1,2,Not Preparing,None,Data Analytics,Data Analysis,Chennai,No,No,2
+1318,18,Female,BCA,Arts,2nd Year,Government,Family Preference,39466,1,2,4,2,Planning,Banking,Core Industry,Excel,Anywhere,Maybe,Yes,4
+1319,24,Female,B.Tech,Commerce,3rd Year,Government,Job Security,29904,5,1,1,4,Not Preparing,Other,IT,Java,Chennai,Yes,Yes,5
+1320,23,Male,B.Tech,Management,1st Year,Government,Salary,55875,2,3,3,5,Not Preparing,Other,None,Python,Other Tamil Nadu,No,No,2
+1321,25,Female,BCA,Computer Science,1st Year,Government,Job Security,41081,4,1,2,3,Planning,TNPSC,Data Analytics,Power BI,Chennai,Maybe,Yes,2
+1322,22,Male,B.E,Engineering,1st Year,Government,Social Status,39354,2,1,4,4,Not Preparing,Other,Business,Excel,Other India,Maybe,Yes,2
+1323,21,Male,B.E,Management,4th Year,Private,Skill Development,42761,4,3,1,5,Preparing,TNPSC,Core Industry,Java,Bangalore,No,No,5
+1324,19,Female,B.E,Management,2nd Year,Government,Family Preference,33300,2,2,1,1,Preparing,TNPSC,None,Python,Chennai,Maybe,Yes,1
+1325,23,Male,B.Com,Arts,2nd Year,Government,Social Status,79384,4,3,1,1,Preparing,Railway,None,Python,Anywhere,Yes,Yes,4
+1326,23,Male,B.E,Engineering,3rd Year,Private,Salary,44491,3,4,2,2,Preparing,Railway,Business,Data Analysis,Other India,Yes,Yes,5
+1327,20,Male,B.A,Commerce,2nd Year,Private,Career Growth,71148,1,4,1,3,Planning,Railway,None,Data Analysis,Bangalore,Maybe,No,3
+1328,24,Male,B.Sc,Arts,2nd Year,Government,Work-Life Balance,75892,3,4,5,1,Not Preparing,SSC,Data Analytics,Power BI,Other India,Yes,Yes,3
+1329,25,Female,B.E,Commerce,1st Year,Private,Salary,50525,1,5,5,5,Not Preparing,Railway,Business,Python,Other Tamil Nadu,No,No,5
+1330,25,Male,BCA,Arts,1st Year,Government,Work-Life Balance,41532,3,2,1,5,Preparing,TNPSC,None,Communication,Bangalore,Maybe,No,5
+1331,18,Female,B.Sc,Engineering,4th Year,Private,Career Growth,21464,3,2,5,1,Preparing,None,Business,Python,Anywhere,Yes,Yes,1
+1332,18,Female,B.Com,Statistics,1st Year,Private,Career Growth,31562,2,5,4,5,Not Preparing,None,Business,Java,Bangalore,No,No,3
+1333,21,Male,BCA,Engineering,1st Year,Government,Salary,56856,5,1,5,5,Planning,Banking,IT,Data Analysis,Anywhere,No,Yes,4
+1334,20,Female,B.Sc,Engineering,1st Year,Both,Job Security,70514,4,4,1,2,Not Preparing,Railway,IT,Communication,Other Tamil Nadu,Yes,Yes,2
+1335,23,Female,BCA,Commerce,1st Year,Government,Social Status,62892,4,4,3,3,Preparing,None,IT,Data Analysis,Anywhere,Maybe,Yes,2
+1336,25,Female,B.Com,Commerce,4th Year,Private,Career Growth,62028,4,1,4,2,Preparing,Railway,None,Data Analysis,Other India,No,No,1
+1337,22,Male,B.A,Engineering,1st Year,Government,Salary,57511,1,3,2,3,Planning,Banking,Core Industry,Data Analysis,Chennai,No,Yes,1
+1338,20,Female,B.Com,Engineering,3rd Year,Private,Career Growth,23683,4,3,1,5,Not Preparing,None,Data Analytics,Python,Other India,No,Yes,3
+1339,21,Female,B.Com,Engineering,3rd Year,Private,Career Growth,47634,4,2,2,3,Planning,TNPSC,None,SQL,Other India,No,Yes,4
+1340,21,Female,BCA,Commerce,3rd Year,Private,Salary,15060,2,5,3,5,Planning,SSC,IT,Python,Bangalore,Maybe,No,4
+1341,20,Male,BBA,Engineering,3rd Year,Government,Job Security,24269,3,2,2,5,Preparing,Railway,Business,Data Analysis,Other Tamil Nadu,Yes,No,5
+1342,21,Female,B.Tech,Engineering,1st Year,Private,Career Growth,78143,4,3,1,2,Not Preparing,None,None,Communication,Chennai,Yes,Yes,1
+1343,20,Male,B.E,Economics,3rd Year,Private,Salary,38065,5,1,1,2,Preparing,None,Business,Python,Anywhere,Yes,Yes,2
+1344,19,Male,B.E,Statistics,1st Year,Private,Career Growth,17895,4,2,3,4,Not Preparing,Banking,Business,Data Analysis,Bangalore,No,Yes,2
+1345,20,Male,B.A,Computer Science,4th Year,Private,Career Growth,30323,1,4,1,1,Preparing,TNPSC,Business,Data Analysis,Other Tamil Nadu,Maybe,Yes,3
+1346,24,Male,B.A,Statistics,3rd Year,Private,Career Growth,27352,1,4,3,4,Preparing,Other,Banking,Python,Chennai,Yes,No,2
+1347,20,Male,B.E,Economics,2nd Year,Government,Job Security,59643,1,1,3,4,Not Preparing,None,Core Industry,Python,Other India,Maybe,No,4
+1348,21,Male,B.Tech,Computer Science,3rd Year,Government,Job Security,64737,4,3,1,3,Not Preparing,SSC,Data Analytics,Communication,Other Tamil Nadu,Yes,No,4
+1349,25,Female,B.E,Arts,3rd Year,Private,Skill Development,53591,2,4,5,5,Preparing,Banking,Data Analytics,Python,Other Tamil Nadu,No,No,1
+1350,24,Male,BBA,Engineering,1st Year,Government,Job Security,45890,5,4,3,5,Not Preparing,None,IT,Power BI,Other Tamil Nadu,Yes,No,3
+1351,21,Female,B.Tech,Economics,3rd Year,Both,Career Growth,47016,4,5,1,5,Preparing,None,Banking,Java,Other India,No,No,2
+1352,18,Female,B.A,Arts,2nd Year,Private,Salary,76304,2,2,5,1,Not Preparing,Banking,None,Power BI,Anywhere,No,No,1
+1353,18,Male,B.Sc,Engineering,1st Year,Both,Job Security,26962,2,3,3,3,Preparing,Banking,None,Communication,Bangalore,Yes,Yes,5
+1354,25,Female,BCA,Commerce,1st Year,Government,Social Status,48302,4,2,5,3,Preparing,Railway,Data Analytics,SQL,Anywhere,Maybe,Yes,5
+1355,25,Female,BBA,Management,4th Year,Both,Work-Life Balance,34846,4,3,4,5,Preparing,None,Core Industry,Power BI,Chennai,No,Yes,2
+1356,24,Female,BBA,Economics,4th Year,Private,Skill Development,19011,2,4,4,4,Planning,Other,Business,Data Analysis,Bangalore,Maybe,Yes,2
+1357,19,Female,B.A,Commerce,3rd Year,Private,Salary,79180,2,5,5,1,Not Preparing,SSC,IT,Java,Chennai,Yes,Yes,2
+1358,25,Male,B.A,Economics,4th Year,Private,Skill Development,34782,2,2,3,4,Preparing,TNPSC,Core Industry,Excel,Other India,No,Yes,4
+1359,18,Female,B.Com,Economics,4th Year,Government,Work-Life Balance,17155,4,4,1,2,Planning,TNPSC,Data Analytics,Java,Anywhere,Maybe,No,2
+1360,20,Male,BBA,Commerce,4th Year,Private,Career Growth,70118,2,3,2,3,Preparing,Other,Banking,Power BI,Other Tamil Nadu,No,Yes,5
+1361,21,Female,B.Com,Computer Science,1st Year,Private,Career Growth,71481,1,2,1,3,Planning,Banking,IT,Excel,Bangalore,Yes,No,2
+1362,18,Female,B.Com,Statistics,1st Year,Government,Job Security,54725,4,2,2,4,Preparing,Banking,Data Analytics,Communication,Other Tamil Nadu,No,Yes,3
+1363,18,Male,BCA,Engineering,1st Year,Government,Family Preference,24196,1,4,2,1,Preparing,Banking,None,Java,Chennai,Yes,No,5
+1364,19,Female,B.Com,Economics,4th Year,Both,Job Security,58459,3,2,3,3,Planning,None,IT,SQL,Other Tamil Nadu,Maybe,No,3
+1365,24,Female,B.Tech,Engineering,1st Year,Both,Job Security,36709,4,5,5,4,Planning,Banking,Data Analytics,Excel,Other Tamil Nadu,No,Yes,5
+1366,24,Female,B.E,Management,4th Year,Both,Career Growth,79077,3,5,1,1,Not Preparing,Banking,None,Excel,Other India,Maybe,Yes,1
+1367,23,Male,B.Sc,Commerce,1st Year,Private,Salary,28327,2,4,5,4,Not Preparing,None,None,Java,Other India,Yes,Yes,5
+1368,19,Female,B.A,Engineering,1st Year,Government,Job Security,72670,2,3,4,1,Planning,None,Business,Power BI,Anywhere,Yes,Yes,5
+1369,20,Male,B.Tech,Commerce,2nd Year,Government,Job Security,68855,5,4,3,5,Not Preparing,Other,Banking,Excel,Chennai,Maybe,Yes,3
+1370,24,Female,B.Sc,Engineering,3rd Year,Government,Social Status,50474,2,5,3,1,Planning,Railway,Business,Communication,Other India,Maybe,No,3
+1371,21,Male,BBA,Statistics,4th Year,Government,Work-Life Balance,47769,3,1,4,2,Not Preparing,None,Data Analytics,Java,Other India,Yes,Yes,5
+1372,25,Male,BBA,Statistics,2nd Year,Government,Job Security,56993,2,1,1,5,Preparing,SSC,Core Industry,Communication,Anywhere,Maybe,No,5
+1373,19,Female,BBA,Statistics,1st Year,Government,Social Status,74825,4,2,4,4,Not Preparing,Banking,Business,Java,Bangalore,Yes,No,4
+1374,25,Female,B.Tech,Statistics,4th Year,Government,Job Security,39700,2,2,1,5,Preparing,Railway,Core Industry,Communication,Anywhere,Maybe,No,1
+1375,18,Male,B.Tech,Statistics,1st Year,Both,Work-Life Balance,65256,5,1,2,5,Preparing,TNPSC,None,Power BI,Other Tamil Nadu,Yes,Yes,1
+1376,21,Male,B.A,Statistics,3rd Year,Government,Job Security,29820,2,5,3,4,Not Preparing,Other,Data Analytics,Java,Other Tamil Nadu,Yes,Yes,2
+1377,21,Female,B.E,Commerce,2nd Year,Both,Career Growth,25891,3,2,1,4,Planning,Railway,Banking,Data Analysis,Other India,No,Yes,5
+1378,18,Male,B.Com,Economics,3rd Year,Private,Salary,49629,3,4,5,2,Preparing,None,Core Industry,SQL,Other India,Yes,Yes,5
+1379,19,Female,BBA,Engineering,2nd Year,Government,Job Security,20269,2,4,5,4,Preparing,Banking,Data Analytics,Power BI,Anywhere,Yes,Yes,5
+1380,18,Female,BCA,Statistics,1st Year,Government,Job Security,71095,3,5,3,3,Not Preparing,Banking,Core Industry,Communication,Anywhere,No,Yes,5
+1381,25,Female,B.E,Commerce,3rd Year,Government,Work-Life Balance,58880,3,2,4,3,Planning,Banking,Business,Java,Chennai,No,No,1
+1382,23,Female,BCA,Commerce,3rd Year,Government,Social Status,63467,5,4,4,2,Planning,Railway,Data Analytics,Power BI,Other Tamil Nadu,Maybe,Yes,3
+1383,21,Male,B.A,Commerce,1st Year,Private,Passion,23320,4,2,1,1,Not Preparing,Banking,Business,Communication,Anywhere,Maybe,No,4
+1384,22,Female,B.A,Economics,3rd Year,Government,Job Security,64589,5,2,4,1,Planning,None,IT,Python,Bangalore,Yes,No,3
+1385,22,Male,B.A,Engineering,4th Year,Government,Salary,68998,1,4,3,3,Not Preparing,Railway,Data Analytics,Python,Chennai,Maybe,Yes,3
+1386,25,Female,B.Sc,Economics,2nd Year,Government,Job Security,25740,5,1,1,4,Not Preparing,Banking,Core Industry,Excel,Anywhere,Maybe,Yes,1
+1387,20,Male,BCA,Computer Science,2nd Year,Both,Salary,50897,2,4,2,2,Not Preparing,TNPSC,IT,SQL,Other India,Yes,Yes,4
+1388,24,Female,B.E,Arts,2nd Year,Private,Skill Development,73565,4,5,4,1,Preparing,TNPSC,Business,Python,Anywhere,No,Yes,5
+1389,18,Male,B.E,Commerce,4th Year,Private,Salary,45930,2,3,4,1,Preparing,SSC,Business,Data Analysis,Other India,No,Yes,1
+1390,18,Male,B.Tech,Computer Science,2nd Year,Government,Job Security,72233,1,4,1,5,Preparing,Banking,Core Industry,Communication,Other India,Yes,Yes,1
+1391,20,Female,B.Tech,Management,1st Year,Private,Career Growth,32285,4,2,5,3,Not Preparing,Banking,IT,Power BI,Other Tamil Nadu,Yes,No,4
+1392,20,Female,BBA,Statistics,3rd Year,Private,Work-Life Balance,29380,3,2,4,4,Preparing,Railway,None,Java,Other Tamil Nadu,Yes,No,2
+1393,25,Female,B.Tech,Arts,4th Year,Private,Career Growth,26360,5,4,3,2,Preparing,Railway,Banking,Power BI,Anywhere,Yes,No,1
+1394,25,Female,B.A,Statistics,2nd Year,Both,Career Growth,20398,2,3,4,1,Preparing,Banking,Core Industry,Excel,Anywhere,Yes,No,3
+1395,20,Male,B.E,Economics,1st Year,Government,Salary,70830,1,4,2,5,Not Preparing,SSC,Business,Power BI,Bangalore,Yes,No,3
+1396,21,Female,BCA,Arts,3rd Year,Both,Salary,20529,3,3,4,3,Not Preparing,Banking,Data Analytics,Python,Chennai,Maybe,No,5
+1397,25,Male,B.A,Engineering,3rd Year,Both,Salary,70756,5,3,5,3,Not Preparing,None,IT,Power BI,Chennai,Maybe,Yes,1
+1398,23,Male,B.Sc,Computer Science,4th Year,Government,Job Security,44062,3,5,4,2,Preparing,Railway,None,Python,Anywhere,Maybe,Yes,5
+1399,25,Female,B.Tech,Engineering,4th Year,Private,Passion,51686,5,2,1,1,Planning,Banking,Banking,Python,Other Tamil Nadu,No,Yes,1
+1400,18,Male,B.A,Economics,4th Year,Both,Job Security,32451,4,2,4,2,Preparing,Railway,Data Analytics,SQL,Bangalore,Yes,No,4
+1401,25,Male,B.A,Statistics,1st Year,Government,Work-Life Balance,64178,3,3,5,2,Preparing,Banking,IT,Excel,Chennai,Yes,No,1
+1402,21,Male,B.Sc,Arts,1st Year,Private,Work-Life Balance,21937,3,2,1,5,Not Preparing,Other,None,Data Analysis,Anywhere,Maybe,No,2
+1403,20,Male,B.Com,Engineering,4th Year,Both,Work-Life Balance,71416,3,1,3,3,Not Preparing,Railway,Core Industry,Data Analysis,Other Tamil Nadu,No,Yes,3
+1404,18,Female,B.E,Engineering,2nd Year,Private,Salary,54886,4,3,1,4,Preparing,SSC,None,Communication,Other Tamil Nadu,Maybe,Yes,4
+1405,25,Female,BCA,Statistics,3rd Year,Government,Salary,64699,1,2,2,3,Preparing,Other,Core Industry,Data Analysis,Other Tamil Nadu,Yes,Yes,3
+1406,21,Female,BBA,Arts,3rd Year,Private,Skill Development,25860,5,1,1,3,Planning,None,IT,Python,Other India,Yes,No,5
+1407,23,Female,B.Com,Computer Science,1st Year,Government,Work-Life Balance,40142,3,5,3,5,Planning,Banking,None,Java,Other Tamil Nadu,Maybe,No,4
+1408,25,Male,B.Tech,Statistics,3rd Year,Private,Salary,40279,4,2,4,4,Not Preparing,None,Banking,Excel,Anywhere,Maybe,No,2
+1409,21,Male,B.A,Engineering,2nd Year,Government,Work-Life Balance,53106,1,1,1,1,Planning,Railway,None,Communication,Bangalore,Yes,Yes,3
+1410,23,Female,B.Sc,Computer Science,3rd Year,Private,Career Growth,60240,5,4,1,4,Planning,Other,IT,Data Analysis,Anywhere,Maybe,No,1
+1411,20,Female,B.Sc,Computer Science,1st Year,Private,Salary,50908,4,4,1,1,Not Preparing,None,Data Analytics,Data Analysis,Other Tamil Nadu,Yes,Yes,1
+1412,25,Female,B.E,Statistics,1st Year,Private,Career Growth,55764,5,1,1,4,Planning,SSC,Data Analytics,Java,Bangalore,Maybe,Yes,1
+1413,23,Male,B.Com,Engineering,2nd Year,Private,Career Growth,63257,3,3,3,2,Preparing,Railway,None,Power BI,Chennai,No,Yes,4
+1414,18,Female,BBA,Economics,2nd Year,Private,Career Growth,65742,1,3,5,4,Planning,Other,None,Excel,Chennai,Yes,Yes,2
+1415,20,Female,B.E,Engineering,3rd Year,Private,Skill Development,29201,4,2,5,5,Not Preparing,None,Core Industry,Java,Anywhere,No,Yes,2
+1416,18,Female,B.A,Commerce,3rd Year,Government,Salary,55544,1,4,1,1,Preparing,Other,IT,Data Analysis,Bangalore,Maybe,Yes,2
+1417,22,Male,B.E,Arts,1st Year,Private,Career Growth,52711,3,3,3,3,Planning,Other,Core Industry,Excel,Anywhere,No,Yes,3
+1418,19,Male,BCA,Management,2nd Year,Government,Salary,60654,1,3,3,5,Preparing,None,Banking,Excel,Bangalore,Maybe,No,4
+1419,25,Male,B.Sc,Economics,2nd Year,Both,Career Growth,23997,1,4,1,1,Preparing,TNPSC,Data Analytics,Data Analysis,Bangalore,No,Yes,1
+1420,23,Male,B.Sc,Computer Science,2nd Year,Government,Job Security,55566,2,5,2,1,Planning,Banking,Business,Power BI,Anywhere,No,No,3
+1421,19,Male,B.Tech,Economics,3rd Year,Government,Work-Life Balance,35175,1,3,1,3,Planning,Railway,Business,Power BI,Bangalore,No,Yes,2
+1422,19,Male,B.Tech,Arts,2nd Year,Private,Passion,65509,5,1,2,2,Not Preparing,Railway,IT,Data Analysis,Other Tamil Nadu,Yes,Yes,1
+1423,23,Male,BBA,Computer Science,1st Year,Private,Passion,55860,4,2,1,5,Not Preparing,Railway,IT,Excel,Bangalore,No,Yes,4
+1424,20,Male,B.A,Arts,1st Year,Government,Work-Life Balance,18225,2,3,2,3,Preparing,Other,Business,Java,Bangalore,Maybe,No,5
+1425,25,Female,BCA,Computer Science,3rd Year,Private,Salary,59578,4,3,2,3,Not Preparing,None,IT,SQL,Anywhere,Maybe,Yes,2
+1426,22,Female,B.Com,Economics,4th Year,Private,Career Growth,74470,4,5,1,2,Preparing,Banking,Data Analytics,Python,Chennai,Yes,Yes,2
+1427,18,Male,B.E,Computer Science,3rd Year,Private,Career Growth,62682,3,1,2,5,Preparing,SSC,Banking,Power BI,Other India,Yes,No,2
+1428,21,Male,BBA,Computer Science,4th Year,Government,Job Security,78318,3,2,4,3,Not Preparing,Railway,Banking,Data Analysis,Bangalore,Maybe,No,2
+1429,18,Female,B.A,Commerce,2nd Year,Private,Work-Life Balance,50228,2,3,5,2,Not Preparing,None,Core Industry,SQL,Other India,No,No,1
+1430,21,Male,B.Tech,Engineering,3rd Year,Private,Career Growth,56505,3,2,3,5,Not Preparing,Banking,Data Analytics,Power BI,Bangalore,Maybe,No,4
+1431,18,Male,B.E,Engineering,1st Year,Private,Career Growth,61688,3,4,2,4,Planning,Banking,IT,Excel,Anywhere,Yes,Yes,3
+1432,23,Male,B.Tech,Management,2nd Year,Private,Passion,78656,3,3,2,1,Preparing,TNPSC,IT,Data Analysis,Anywhere,Yes,Yes,1
+1433,22,Female,B.E,Management,1st Year,Private,Work-Life Balance,66880,4,3,3,2,Preparing,None,Core Industry,SQL,Bangalore,Maybe,No,4
+1434,25,Female,B.Com,Commerce,2nd Year,Government,Social Status,76078,2,4,2,1,Preparing,Railway,Core Industry,Data Analysis,Anywhere,No,Yes,3
+1435,21,Female,B.A,Management,3rd Year,Government,Job Security,38110,4,5,3,4,Not Preparing,Other,IT,Java,Anywhere,No,No,2
+1436,25,Female,B.E,Arts,4th Year,Government,Job Security,25754,5,3,1,3,Not Preparing,Banking,IT,Java,Bangalore,Yes,No,4
+1437,25,Female,BCA,Economics,2nd Year,Government,Job Security,71633,4,2,4,3,Not Preparing,Banking,Data Analytics,Communication,Chennai,Maybe,No,2
+1438,25,Male,BBA,Statistics,4th Year,Government,Job Security,41655,5,1,4,5,Not Preparing,SSC,Core Industry,Python,Bangalore,Maybe,Yes,4
+1439,24,Female,B.Sc,Arts,2nd Year,Private,Career Growth,70582,1,2,5,2,Not Preparing,TNPSC,Data Analytics,Python,Chennai,Yes,No,5
+1440,20,Male,BCA,Statistics,1st Year,Government,Salary,58601,1,5,2,2,Planning,Banking,None,Power BI,Anywhere,Maybe,Yes,2
+1441,18,Male,BCA,Statistics,1st Year,Both,Work-Life Balance,18114,5,1,5,5,Not Preparing,Banking,IT,Python,Chennai,Yes,Yes,2
+1442,25,Female,BBA,Commerce,2nd Year,Government,Job Security,41502,5,2,1,1,Preparing,Other,Business,Data Analysis,Anywhere,No,Yes,2
+1443,18,Female,B.Sc,Arts,4th Year,Private,Skill Development,64768,4,2,4,3,Not Preparing,Other,Business,Data Analysis,Chennai,No,No,1
+1444,25,Male,BCA,Commerce,3rd Year,Private,Skill Development,63128,5,4,1,3,Preparing,SSC,None,Communication,Chennai,Maybe,Yes,3
+1445,21,Male,B.E,Computer Science,3rd Year,Government,Job Security,35028,2,5,1,2,Not Preparing,None,IT,Java,Bangalore,No,No,2
+1446,20,Male,B.E,Statistics,1st Year,Government,Work-Life Balance,70565,1,4,2,2,Not Preparing,SSC,Core Industry,SQL,Chennai,No,Yes,2
+1447,20,Female,B.E,Economics,3rd Year,Private,Career Growth,32587,1,1,1,5,Preparing,SSC,Business,SQL,Anywhere,Yes,Yes,1
+1448,23,Female,B.Sc,Management,1st Year,Government,Job Security,57719,5,4,4,4,Preparing,Other,Core Industry,Java,Bangalore,Yes,Yes,1
+1449,24,Female,BCA,Economics,3rd Year,Both,Job Security,50333,3,5,5,1,Preparing,None,Business,Excel,Chennai,Maybe,No,5
+1450,23,Female,B.Sc,Management,2nd Year,Private,Career Growth,18174,3,3,4,4,Preparing,Other,Core Industry,Java,Bangalore,Yes,No,4
+1451,23,Female,B.E,Statistics,1st Year,Both,Work-Life Balance,67233,5,3,2,4,Planning,TNPSC,Business,SQL,Other India,Maybe,No,2
+1452,23,Male,BBA,Statistics,1st Year,Government,Job Security,50398,2,1,4,2,Preparing,Railway,Core Industry,Power BI,Bangalore,Maybe,No,4
+1453,23,Female,BCA,Statistics,2nd Year,Private,Skill Development,50929,3,3,3,2,Not Preparing,Railway,None,Communication,Other India,Yes,Yes,1
+1454,23,Male,BCA,Commerce,1st Year,Private,Salary,19321,5,4,5,2,Not Preparing,TNPSC,Data Analytics,Java,Other India,No,Yes,1
+1455,22,Male,B.Tech,Arts,3rd Year,Private,Career Growth,73013,2,1,3,4,Planning,Railway,Core Industry,Excel,Bangalore,No,No,5
+1456,20,Male,B.Tech,Management,3rd Year,Government,Job Security,45435,2,5,3,1,Preparing,None,Data Analytics,Power BI,Anywhere,No,No,3
+1457,23,Female,B.Com,Arts,1st Year,Private,Skill Development,60972,4,1,2,2,Not Preparing,Other,Data Analytics,Java,Anywhere,No,No,1
+1458,25,Female,B.A,Commerce,3rd Year,Private,Passion,70421,2,1,1,3,Planning,Railway,IT,Power BI,Anywhere,Maybe,No,2
+1459,20,Female,B.Tech,Commerce,4th Year,Private,Passion,22099,3,2,3,1,Not Preparing,None,None,Java,Other Tamil Nadu,No,Yes,5
+1460,20,Male,B.Sc,Engineering,1st Year,Government,Salary,38760,3,2,4,3,Planning,Other,Data Analytics,Power BI,Other India,Maybe,No,3
+1461,19,Male,B.Tech,Economics,2nd Year,Both,Work-Life Balance,26360,5,1,1,1,Planning,None,Banking,Data Analysis,Bangalore,Yes,No,5
+1462,22,Male,B.Com,Economics,4th Year,Government,Work-Life Balance,25313,5,3,4,2,Preparing,TNPSC,Data Analytics,Python,Anywhere,Yes,Yes,1
+1463,23,Male,BCA,Computer Science,1st Year,Private,Skill Development,61270,2,2,4,5,Planning,SSC,Core Industry,Power BI,Anywhere,Maybe,No,3
+1464,18,Male,B.Com,Commerce,2nd Year,Both,Career Growth,35462,1,5,1,2,Not Preparing,TNPSC,Data Analytics,Data Analysis,Bangalore,No,Yes,4
+1465,21,Male,BCA,Management,3rd Year,Private,Skill Development,20801,4,4,1,4,Not Preparing,Railway,Core Industry,Python,Other India,Maybe,No,3
+1466,24,Female,BBA,Engineering,2nd Year,Private,Passion,29130,1,2,4,4,Preparing,Other,Core Industry,SQL,Bangalore,No,Yes,2
+1467,25,Female,BBA,Engineering,4th Year,Government,Job Security,29271,2,1,2,1,Preparing,None,Banking,Python,Other Tamil Nadu,No,No,4
+1468,18,Female,BCA,Arts,3rd Year,Both,Work-Life Balance,31075,2,3,5,4,Planning,Railway,Data Analytics,Power BI,Other Tamil Nadu,Maybe,No,4
+1469,22,Female,B.A,Economics,1st Year,Government,Work-Life Balance,51919,1,4,5,2,Preparing,Railway,Data Analytics,Communication,Bangalore,Maybe,No,2
+1470,21,Male,B.Tech,Commerce,3rd Year,Private,Career Growth,56679,4,2,2,3,Not Preparing,SSC,Business,Communication,Other India,No,No,4
+1471,22,Male,B.Sc,Computer Science,1st Year,Private,Career Growth,33984,1,3,1,2,Not Preparing,Railway,Business,SQL,Anywhere,Maybe,No,1
+1472,25,Female,B.Sc,Commerce,1st Year,Private,Salary,37559,5,3,4,1,Preparing,SSC,IT,Power BI,Other Tamil Nadu,No,Yes,3
+1473,20,Male,B.E,Arts,2nd Year,Government,Salary,75942,3,3,5,4,Preparing,Other,Core Industry,Python,Other Tamil Nadu,Maybe,No,3
+1474,21,Female,BCA,Statistics,2nd Year,Private,Passion,27861,5,1,4,3,Preparing,Other,Banking,Communication,Other India,Yes,Yes,2
+1475,20,Female,B.Sc,Commerce,2nd Year,Private,Career Growth,48434,3,5,2,5,Planning,None,Business,Java,Other Tamil Nadu,No,Yes,1
+1476,25,Female,B.A,Arts,4th Year,Government,Social Status,31667,2,3,4,3,Planning,SSC,Data Analytics,Excel,Other Tamil Nadu,Yes,Yes,4
+1477,18,Male,BCA,Statistics,4th Year,Both,Work-Life Balance,20840,4,4,2,3,Not Preparing,TNPSC,IT,Power BI,Other India,Maybe,Yes,3
+1478,25,Female,B.A,Statistics,2nd Year,Government,Job Security,76247,1,2,1,2,Planning,Other,Banking,Data Analysis,Bangalore,Yes,No,3
+1479,18,Female,B.Sc,Computer Science,4th Year,Government,Social Status,18565,4,4,2,5,Planning,None,None,Data Analysis,Anywhere,Maybe,No,3
+1480,21,Female,B.Sc,Management,3rd Year,Government,Family Preference,58194,1,1,2,1,Planning,TNPSC,Data Analytics,Java,Anywhere,No,No,3
+1481,21,Male,B.E,Economics,3rd Year,Government,Work-Life Balance,35977,5,1,5,1,Planning,Other,Data Analytics,Java,Other Tamil Nadu,Maybe,No,5
+1482,23,Male,B.Sc,Commerce,4th Year,Both,Work-Life Balance,65617,5,4,4,3,Not Preparing,Other,None,Power BI,Anywhere,Maybe,Yes,2
+1483,22,Female,BCA,Statistics,4th Year,Government,Family Preference,72473,1,5,5,3,Preparing,None,Core Industry,Excel,Bangalore,No,Yes,4
+1484,23,Male,BBA,Commerce,3rd Year,Government,Work-Life Balance,36118,4,1,3,4,Not Preparing,None,Core Industry,Communication,Other Tamil Nadu,Maybe,Yes,4
+1485,22,Male,BCA,Management,1st Year,Government,Job Security,79803,1,1,2,5,Planning,Banking,Business,Excel,Anywhere,No,No,2
+1486,23,Male,BCA,Economics,3rd Year,Private,Passion,37641,2,4,3,3,Preparing,Railway,Business,SQL,Chennai,Maybe,No,1
+1487,20,Male,B.E,Management,3rd Year,Private,Skill Development,22366,5,1,5,4,Preparing,Railway,Data Analytics,Python,Chennai,No,No,2
+1488,21,Male,B.E,Economics,4th Year,Government,Work-Life Balance,41636,2,5,4,5,Preparing,TNPSC,Data Analytics,Python,Chennai,Yes,No,3
+1489,18,Male,B.Sc,Engineering,3rd Year,Government,Job Security,30630,5,5,5,1,Not Preparing,Railway,Business,Java,Chennai,Maybe,Yes,3
+1490,22,Male,B.Com,Economics,4th Year,Both,Work-Life Balance,35056,5,5,4,4,Preparing,TNPSC,None,Communication,Chennai,Maybe,No,2
+1491,25,Male,B.Com,Computer Science,4th Year,Government,Job Security,22382,3,2,4,5,Not Preparing,Other,Business,Excel,Other Tamil Nadu,Maybe,No,2
+1492,22,Male,B.E,Management,2nd Year,Private,Work-Life Balance,70739,2,5,1,4,Not Preparing,Banking,Data Analytics,Java,Other India,No,Yes,4
+1493,18,Male,B.Sc,Statistics,3rd Year,Government,Job Security,31149,2,5,2,3,Planning,Banking,Banking,Power BI,Other India,Maybe,Yes,4
+1494,23,Female,B.Com,Engineering,1st Year,Private,Career Growth,63639,3,2,5,2,Planning,Other,Data Analytics,Java,Other Tamil Nadu,No,No,5
+1495,22,Female,B.Sc,Computer Science,2nd Year,Government,Salary,74838,4,3,4,1,Preparing,None,Banking,Power BI,Other Tamil Nadu,Maybe,No,5
+1496,24,Male,B.Sc,Commerce,4th Year,Private,Career Growth,61041,2,1,5,3,Preparing,SSC,Banking,Power BI,Bangalore,Yes,Yes,3
+1497,20,Female,B.Sc,Management,4th Year,Government,Work-Life Balance,15992,1,5,5,3,Planning,SSC,Data Analytics,SQL,Other India,Maybe,No,5
+1498,21,Female,B.Tech,Arts,1st Year,Both,Work-Life Balance,21858,3,1,4,5,Not Preparing,Railway,IT,SQL,Chennai,Yes,Yes,5
+1499,18,Male,BCA,Arts,4th Year,Government,Social Status,17121,2,4,3,4,Not Preparing,None,Business,Power BI,Other Tamil Nadu,No,Yes,1
+1500,21,Male,B.Sc,Statistics,3rd Year,Private,Career Growth,42160,4,1,2,1,Planning,TNPSC,Core Industry,Communication,Chennai,Yes,No,2
+1501,24,Male,B.Tech,Economics,2nd Year,Government,Job Security,60156,2,2,2,3,Not Preparing,Banking,Data Analytics,SQL,Other India,Maybe,Yes,4
+1502,22,Female,B.E,Statistics,4th Year,Government,Social Status,66375,5,1,1,5,Planning,Railway,Banking,SQL,Anywhere,Maybe,No,5
+1503,22,Female,B.Com,Arts,4th Year,Private,Work-Life Balance,35906,1,1,1,1,Planning,Other,Data Analytics,Python,Anywhere,No,No,4
+1504,25,Male,BCA,Commerce,1st Year,Government,Salary,34572,3,1,1,4,Preparing,None,Business,Java,Other Tamil Nadu,Maybe,No,5
+1505,24,Male,BBA,Engineering,3rd Year,Both,Career Growth,67389,5,3,2,3,Preparing,Banking,None,Python,Bangalore,Maybe,No,5
+1506,18,Male,B.Com,Engineering,4th Year,Both,Career Growth,19136,4,3,3,3,Planning,TNPSC,Banking,Communication,Chennai,No,Yes,3
+1507,25,Female,BCA,Management,1st Year,Both,Work-Life Balance,76868,5,4,2,3,Preparing,TNPSC,Core Industry,SQL,Other Tamil Nadu,No,No,1
+1508,20,Female,BBA,Engineering,4th Year,Government,Work-Life Balance,31727,5,2,2,1,Planning,SSC,Core Industry,Data Analysis,Bangalore,Yes,No,2
+1509,25,Female,B.Com,Management,1st Year,Private,Career Growth,47167,4,1,2,1,Not Preparing,Railway,Core Industry,SQL,Chennai,No,Yes,2
+1510,19,Female,BCA,Management,1st Year,Government,Job Security,60421,5,1,2,1,Not Preparing,Other,None,Excel,Other India,Maybe,No,3
+1511,18,Male,B.Com,Management,3rd Year,Both,Work-Life Balance,30479,3,1,3,1,Not Preparing,Banking,IT,Communication,Anywhere,No,No,3
+1512,19,Male,B.Com,Arts,4th Year,Private,Career Growth,68856,2,1,1,5,Not Preparing,TNPSC,Banking,Data Analysis,Bangalore,Maybe,No,2
+1513,24,Male,BBA,Arts,3rd Year,Private,Salary,46376,5,3,5,2,Planning,Banking,None,Java,Chennai,Yes,No,2
+1514,23,Male,B.Com,Economics,1st Year,Private,Skill Development,19823,3,4,1,5,Not Preparing,Other,Banking,Java,Other Tamil Nadu,No,Yes,1
+1515,19,Female,B.Com,Computer Science,2nd Year,Private,Career Growth,74620,2,5,1,3,Not Preparing,Banking,None,Data Analysis,Chennai,Maybe,Yes,5
+1516,20,Female,BBA,Management,4th Year,Government,Job Security,19920,2,2,5,5,Not Preparing,Railway,None,Java,Other Tamil Nadu,No,No,1
+1517,25,Male,B.E,Management,2nd Year,Private,Passion,34585,5,1,2,4,Not Preparing,SSC,IT,Data Analysis,Anywhere,No,Yes,2
+1518,23,Male,B.Sc,Computer Science,4th Year,Government,Social Status,53239,3,4,3,1,Planning,Banking,Banking,Communication,Anywhere,No,Yes,5
+1519,25,Female,B.A,Statistics,3rd Year,Private,Passion,32272,5,5,3,4,Not Preparing,None,None,Data Analysis,Chennai,No,Yes,2
+1520,19,Male,B.Tech,Management,3rd Year,Private,Passion,41619,4,4,1,4,Preparing,SSC,IT,Data Analysis,Chennai,Yes,Yes,1
+1521,25,Female,B.A,Economics,3rd Year,Private,Skill Development,24533,2,3,5,3,Preparing,Other,Data Analytics,Excel,Other Tamil Nadu,Maybe,No,1
+1522,24,Male,B.A,Engineering,3rd Year,Government,Social Status,54895,5,5,4,1,Preparing,SSC,Business,Excel,Other Tamil Nadu,No,Yes,1
+1523,23,Male,BCA,Engineering,3rd Year,Private,Salary,18720,2,4,2,4,Preparing,Banking,None,Python,Bangalore,Maybe,No,5
+1524,24,Male,B.Sc,Commerce,2nd Year,Government,Work-Life Balance,34267,3,3,1,3,Preparing,Banking,Core Industry,Communication,Bangalore,Yes,No,4
+1525,19,Male,BCA,Commerce,3rd Year,Private,Work-Life Balance,30696,1,4,3,1,Preparing,None,IT,Communication,Bangalore,Maybe,Yes,4
+1526,24,Male,B.Sc,Engineering,1st Year,Government,Job Security,44968,5,4,5,2,Planning,TNPSC,IT,Excel,Chennai,Maybe,No,2
+1527,20,Male,BBA,Engineering,1st Year,Government,Job Security,68364,5,5,5,3,Preparing,None,None,Power BI,Bangalore,Yes,Yes,5
+1528,19,Male,BBA,Arts,2nd Year,Government,Salary,38345,2,3,1,5,Not Preparing,Banking,IT,Power BI,Chennai,No,No,3
+1529,19,Female,B.Sc,Economics,4th Year,Private,Career Growth,66567,3,1,4,1,Preparing,SSC,Data Analytics,Python,Anywhere,Maybe,No,4
+1530,19,Female,B.Com,Computer Science,1st Year,Government,Job Security,40693,4,2,3,4,Planning,None,IT,Power BI,Other India,Maybe,Yes,5
+1531,18,Female,B.E,Commerce,4th Year,Government,Social Status,76607,3,5,1,4,Preparing,None,Business,Power BI,Anywhere,No,No,5
+1532,25,Female,B.Com,Arts,2nd Year,Both,Work-Life Balance,34385,5,3,4,5,Not Preparing,TNPSC,Business,Power BI,Chennai,No,Yes,4
+1533,18,Female,B.E,Arts,4th Year,Government,Salary,33122,4,4,5,5,Not Preparing,Banking,Core Industry,SQL,Chennai,Maybe,No,5
+1534,18,Male,BCA,Computer Science,4th Year,Private,Career Growth,16364,3,3,2,4,Planning,Banking,Data Analytics,Python,Other India,Yes,No,5
+1535,20,Male,B.E,Arts,4th Year,Private,Career Growth,17708,1,2,3,1,Planning,Other,Business,Excel,Other Tamil Nadu,No,Yes,4
+1536,23,Female,BCA,Economics,4th Year,Both,Work-Life Balance,27982,2,2,3,3,Planning,TNPSC,None,Power BI,Other Tamil Nadu,No,Yes,1
+1537,25,Male,BBA,Engineering,2nd Year,Private,Salary,32308,3,1,4,5,Planning,Other,Banking,Java,Other Tamil Nadu,Yes,Yes,2
+1538,24,Female,B.A,Management,1st Year,Private,Salary,47919,3,1,1,5,Preparing,Other,Banking,Data Analysis,Bangalore,Maybe,No,3
+1539,22,Female,BBA,Computer Science,3rd Year,Private,Salary,40161,1,2,5,5,Preparing,Other,Banking,SQL,Other Tamil Nadu,No,Yes,2
+1540,19,Male,BBA,Engineering,4th Year,Government,Job Security,72196,5,5,4,2,Not Preparing,Railway,None,Power BI,Bangalore,Maybe,Yes,1
+1541,24,Male,B.A,Engineering,1st Year,Private,Salary,65064,2,5,2,1,Planning,Other,IT,Data Analysis,Bangalore,Maybe,Yes,1
+1542,19,Male,B.E,Statistics,1st Year,Government,Social Status,50089,3,4,2,1,Planning,None,None,Data Analysis,Other Tamil Nadu,Maybe,Yes,5
+1543,20,Female,B.E,Computer Science,2nd Year,Both,Job Security,28865,4,1,2,1,Preparing,SSC,IT,SQL,Other Tamil Nadu,Yes,No,2
+1544,19,Male,BCA,Arts,1st Year,Government,Work-Life Balance,15495,3,4,4,1,Planning,None,Banking,Python,Other India,Maybe,No,1
+1545,18,Female,B.Com,Management,2nd Year,Private,Salary,59755,2,1,5,1,Not Preparing,None,Core Industry,Java,Other India,Maybe,No,2
+1546,25,Female,BCA,Computer Science,4th Year,Government,Work-Life Balance,17148,3,2,3,4,Not Preparing,Banking,Core Industry,Java,Bangalore,No,No,1
+1547,22,Female,B.Com,Arts,4th Year,Private,Skill Development,48324,1,5,1,5,Planning,Railway,IT,Java,Other India,No,No,3
+1548,21,Male,BBA,Engineering,3rd Year,Government,Job Security,28393,3,5,3,4,Not Preparing,Other,Banking,Power BI,Bangalore,Yes,No,1
+1549,19,Male,B.A,Management,3rd Year,Both,Job Security,16552,3,2,5,2,Not Preparing,Banking,None,SQL,Chennai,Yes,Yes,2
+1550,24,Female,BBA,Arts,3rd Year,Private,Career Growth,66272,4,4,3,3,Preparing,TNPSC,Core Industry,Java,Bangalore,No,No,5
+1551,18,Male,B.Sc,Economics,1st Year,Government,Social Status,50853,1,4,4,5,Not Preparing,TNPSC,IT,Data Analysis,Bangalore,No,Yes,2
+1552,21,Male,B.E,Arts,4th Year,Private,Salary,67656,1,3,2,2,Planning,Banking,None,Data Analysis,Other India,Yes,Yes,4
+1553,22,Male,B.Com,Statistics,2nd Year,Private,Work-Life Balance,47924,3,1,5,4,Planning,SSC,Banking,Communication,Chennai,Maybe,Yes,2
+1554,21,Female,BCA,Engineering,3rd Year,Private,Career Growth,23926,4,4,5,3,Not Preparing,Banking,Data Analytics,Communication,Anywhere,Yes,Yes,3
+1555,18,Female,B.A,Arts,2nd Year,Government,Social Status,45851,3,2,3,2,Planning,Banking,Banking,SQL,Anywhere,Maybe,No,3
+1556,25,Male,B.Com,Commerce,2nd Year,Government,Work-Life Balance,38889,3,4,4,3,Preparing,Railway,Banking,Power BI,Anywhere,No,No,3
+1557,25,Female,BCA,Commerce,3rd Year,Government,Social Status,54930,2,5,3,2,Not Preparing,TNPSC,None,Power BI,Chennai,No,No,1
+1558,23,Male,B.E,Statistics,4th Year,Government,Job Security,69675,2,1,3,4,Not Preparing,TNPSC,None,Python,Other Tamil Nadu,No,Yes,3
+1559,25,Male,BBA,Economics,3rd Year,Both,Career Growth,71695,4,3,5,3,Not Preparing,Other,Business,Python,Chennai,Maybe,No,2
+1560,23,Male,B.E,Engineering,2nd Year,Government,Social Status,23055,5,1,3,2,Planning,None,Business,Java,Other India,Yes,No,5
+1561,21,Male,B.Tech,Computer Science,3rd Year,Private,Career Growth,19654,2,5,2,4,Planning,Banking,None,Excel,Bangalore,Maybe,No,3
+1562,20,Female,B.Sc,Statistics,2nd Year,Government,Job Security,37634,5,5,3,5,Not Preparing,Banking,None,Data Analysis,Bangalore,Yes,No,2
+1563,24,Female,B.Tech,Economics,2nd Year,Private,Skill Development,47363,1,5,2,4,Planning,SSC,Data Analytics,Python,Other India,Yes,No,1
+1564,24,Female,B.A,Computer Science,3rd Year,Private,Salary,78752,2,5,5,4,Planning,TNPSC,Data Analytics,Power BI,Other India,Yes,No,1
+1565,21,Male,B.Com,Commerce,1st Year,Both,Career Growth,26468,2,2,4,5,Not Preparing,SSC,Banking,Data Analysis,Bangalore,No,Yes,5
+1566,19,Male,B.A,Commerce,3rd Year,Government,Job Security,71398,4,3,2,4,Not Preparing,Railway,Core Industry,Excel,Other Tamil Nadu,Yes,Yes,5
+1567,19,Male,BBA,Computer Science,1st Year,Private,Career Growth,47922,5,5,4,5,Planning,Other,Data Analytics,Python,Other Tamil Nadu,No,No,2
+1568,25,Female,BCA,Statistics,2nd Year,Government,Social Status,55718,2,5,4,5,Not Preparing,SSC,Banking,SQL,Other Tamil Nadu,Yes,Yes,5
+1569,24,Male,B.E,Commerce,2nd Year,Government,Work-Life Balance,63091,2,4,2,5,Not Preparing,TNPSC,IT,Communication,Other India,Yes,Yes,5
+1570,24,Female,B.Tech,Engineering,1st Year,Government,Social Status,32380,4,3,5,2,Not Preparing,Railway,Business,Python,Bangalore,No,No,1
+1571,23,Female,B.Tech,Management,2nd Year,Private,Work-Life Balance,41870,4,1,1,3,Not Preparing,Banking,Core Industry,Python,Bangalore,No,Yes,2
+1572,20,Female,BBA,Arts,1st Year,Government,Salary,52394,5,3,4,2,Planning,Railway,Banking,SQL,Bangalore,Maybe,No,5
+1573,18,Female,B.Tech,Computer Science,1st Year,Private,Career Growth,67057,1,3,4,5,Not Preparing,None,None,Power BI,Chennai,Yes,Yes,2
+1574,19,Female,BBA,Computer Science,2nd Year,Government,Job Security,29259,1,3,5,3,Preparing,SSC,IT,Java,Chennai,No,No,3
+1575,24,Female,B.A,Commerce,4th Year,Private,Career Growth,29873,3,5,5,3,Not Preparing,TNPSC,Business,SQL,Anywhere,Maybe,Yes,1
+1576,23,Male,B.E,Statistics,1st Year,Government,Family Preference,28016,2,5,3,5,Preparing,SSC,IT,Java,Chennai,Maybe,Yes,1
+1577,22,Male,B.Com,Engineering,3rd Year,Private,Salary,57137,5,2,5,3,Not Preparing,Banking,Banking,Python,Other Tamil Nadu,No,Yes,1
+1578,23,Female,BCA,Statistics,3rd Year,Both,Career Growth,15153,2,1,4,3,Preparing,Banking,Data Analytics,Power BI,Other Tamil Nadu,Yes,Yes,4
+1579,19,Female,B.Com,Economics,2nd Year,Private,Salary,22853,5,4,2,2,Preparing,TNPSC,Business,Excel,Other Tamil Nadu,Maybe,No,2
+1580,19,Male,B.A,Economics,4th Year,Private,Skill Development,27379,5,3,1,3,Not Preparing,None,IT,Python,Other Tamil Nadu,Yes,Yes,3
+1581,23,Female,BCA,Management,2nd Year,Government,Work-Life Balance,30792,5,1,3,5,Not Preparing,Other,Data Analytics,SQL,Anywhere,Yes,No,5
+1582,18,Female,B.Tech,Commerce,4th Year,Private,Career Growth,70633,2,1,2,1,Not Preparing,Railway,Core Industry,Excel,Other Tamil Nadu,Maybe,No,3
+1583,21,Male,B.Sc,Commerce,1st Year,Government,Family Preference,53367,4,2,1,1,Preparing,Railway,Banking,Communication,Other India,No,Yes,2
+1584,19,Female,B.A,Commerce,1st Year,Government,Salary,33100,2,4,1,1,Planning,Banking,Banking,Excel,Other India,Yes,Yes,1
+1585,23,Female,B.A,Management,1st Year,Private,Career Growth,75546,5,3,1,5,Planning,SSC,Business,SQL,Other India,No,No,4
+1586,24,Female,B.E,Economics,1st Year,Both,Work-Life Balance,62553,3,4,2,1,Not Preparing,SSC,IT,Data Analysis,Chennai,Maybe,Yes,2
+1587,23,Male,B.Com,Statistics,3rd Year,Government,Job Security,78456,1,2,3,2,Planning,None,Core Industry,Excel,Bangalore,Yes,No,2
+1588,20,Male,B.A,Management,3rd Year,Private,Work-Life Balance,26049,5,5,3,5,Planning,Other,None,SQL,Anywhere,No,Yes,5
+1589,21,Male,B.A,Management,2nd Year,Private,Work-Life Balance,15786,3,1,1,5,Not Preparing,SSC,Business,Data Analysis,Other India,No,No,3
+1590,22,Female,B.Tech,Statistics,4th Year,Government,Work-Life Balance,19368,4,3,2,5,Preparing,Railway,None,Python,Other India,Yes,Yes,3
+1591,18,Female,B.Tech,Commerce,1st Year,Government,Social Status,45699,5,5,1,3,Not Preparing,SSC,Business,Data Analysis,Other Tamil Nadu,No,Yes,5
+1592,25,Male,BCA,Engineering,1st Year,Government,Job Security,72248,3,2,5,3,Planning,Other,IT,Power BI,Other India,No,No,4
+1593,22,Female,BBA,Statistics,4th Year,Government,Family Preference,62691,5,4,3,3,Preparing,Railway,Core Industry,Communication,Other Tamil Nadu,Maybe,No,1
+1594,21,Female,BBA,Economics,4th Year,Government,Salary,52040,2,1,4,4,Planning,SSC,IT,Data Analysis,Other Tamil Nadu,Maybe,No,1
+1595,21,Female,B.Sc,Computer Science,2nd Year,Government,Work-Life Balance,67919,3,3,1,2,Preparing,Railway,Banking,Power BI,Bangalore,No,Yes,4
+1596,21,Female,BBA,Computer Science,4th Year,Government,Family Preference,42454,2,5,5,5,Planning,Banking,None,Power BI,Chennai,No,Yes,5
+1597,22,Female,B.E,Arts,1st Year,Private,Work-Life Balance,72986,2,5,3,5,Not Preparing,Banking,Data Analytics,Power BI,Other Tamil Nadu,Yes,Yes,2
+1598,24,Male,B.Sc,Arts,1st Year,Private,Passion,53762,3,1,2,3,Planning,None,Banking,Data Analysis,Other Tamil Nadu,Maybe,Yes,3
+1599,21,Female,BCA,Management,1st Year,Both,Career Growth,38600,1,4,3,5,Planning,Banking,Banking,SQL,Bangalore,Yes,No,2
+1600,23,Male,B.Tech,Computer Science,1st Year,Government,Family Preference,44238,3,2,2,5,Preparing,SSC,None,SQL,Other Tamil Nadu,No,No,3
+1601,22,Female,BBA,Engineering,1st Year,Private,Skill Development,40241,1,4,2,1,Planning,Other,Business,Communication,Anywhere,Yes,Yes,2
+1602,25,Male,B.Com,Commerce,2nd Year,Both,Work-Life Balance,34810,5,4,1,5,Not Preparing,Railway,Banking,SQL,Chennai,No,Yes,5
+1603,21,Female,B.Tech,Economics,1st Year,Private,Skill Development,35167,5,4,1,4,Not Preparing,TNPSC,Core Industry,Java,Anywhere,Maybe,Yes,5
+1604,23,Male,B.E,Arts,2nd Year,Government,Job Security,36811,3,1,3,3,Not Preparing,Banking,Banking,SQL,Other India,Maybe,No,4
+1605,24,Female,B.Tech,Engineering,1st Year,Private,Salary,54779,5,1,5,2,Preparing,Banking,Core Industry,SQL,Chennai,No,No,2
+1606,20,Male,B.E,Economics,3rd Year,Government,Work-Life Balance,72204,4,2,3,2,Preparing,TNPSC,IT,SQL,Other India,Maybe,Yes,2
+1607,24,Female,B.E,Economics,3rd Year,Government,Social Status,35085,2,4,4,1,Planning,TNPSC,Business,Python,Other Tamil Nadu,No,No,4
+1608,25,Male,B.E,Commerce,3rd Year,Private,Salary,61854,2,1,2,2,Planning,SSC,Core Industry,Communication,Bangalore,Yes,Yes,4
+1609,21,Female,BCA,Management,3rd Year,Private,Skill Development,24261,1,2,2,2,Planning,Railway,Banking,Java,Anywhere,No,Yes,5
+1610,25,Male,B.E,Computer Science,2nd Year,Government,Job Security,33733,5,2,1,3,Preparing,Banking,Business,SQL,Other India,Yes,No,5
+1611,22,Male,B.E,Commerce,2nd Year,Both,Work-Life Balance,54779,1,4,5,3,Preparing,Other,Business,Communication,Other Tamil Nadu,No,No,2
+1612,19,Female,B.Com,Engineering,4th Year,Private,Salary,71207,2,3,1,4,Planning,SSC,Core Industry,Excel,Anywhere,Maybe,No,5
+1613,21,Female,B.Sc,Management,1st Year,Private,Career Growth,44079,2,4,4,1,Preparing,SSC,Core Industry,Python,Anywhere,No,No,5
+1614,19,Male,B.A,Engineering,3rd Year,Both,Salary,48980,5,3,3,2,Preparing,Other,Data Analytics,Data Analysis,Other India,No,Yes,2
+1615,23,Female,B.Sc,Management,2nd Year,Government,Job Security,71117,4,2,3,4,Not Preparing,Other,Data Analytics,SQL,Other Tamil Nadu,No,No,4
+1616,20,Male,B.E,Arts,1st Year,Both,Career Growth,29141,4,1,5,1,Not Preparing,None,Business,Java,Bangalore,Maybe,No,2
+1617,18,Male,B.Com,Engineering,1st Year,Private,Career Growth,24344,5,5,1,2,Planning,Other,None,Python,Other India,No,No,1
+1618,25,Male,B.Tech,Commerce,2nd Year,Government,Job Security,54472,5,2,1,2,Planning,TNPSC,None,Java,Anywhere,Maybe,No,2
+1619,24,Female,B.Com,Management,3rd Year,Private,Work-Life Balance,30896,1,1,4,3,Not Preparing,Banking,Data Analytics,Data Analysis,Anywhere,No,Yes,1
+1620,20,Male,B.E,Management,4th Year,Private,Passion,38817,5,2,3,5,Preparing,None,Banking,Data Analysis,Chennai,Yes,Yes,2
+1621,21,Male,B.Com,Economics,1st Year,Private,Salary,44813,4,4,1,1,Planning,TNPSC,IT,Python,Other Tamil Nadu,No,No,1
+1622,19,Female,BBA,Economics,4th Year,Both,Work-Life Balance,33895,5,3,5,2,Planning,None,Business,Excel,Chennai,Yes,No,1
+1623,24,Female,B.Com,Statistics,3rd Year,Private,Career Growth,15143,1,2,3,1,Planning,Banking,IT,Communication,Bangalore,Maybe,Yes,2
+1624,19,Female,B.E,Engineering,3rd Year,Private,Skill Development,25681,1,1,4,4,Preparing,None,Data Analytics,Python,Other India,Maybe,Yes,5
+1625,22,Female,BCA,Economics,4th Year,Both,Job Security,22367,1,4,5,4,Not Preparing,TNPSC,Core Industry,Power BI,Anywhere,No,No,3
+1626,19,Male,BBA,Statistics,3rd Year,Private,Salary,18228,1,5,2,5,Planning,Railway,Business,Data Analysis,Other Tamil Nadu,Maybe,Yes,5
+1627,22,Male,B.Com,Arts,1st Year,Government,Job Security,19582,3,4,4,2,Not Preparing,Banking,Data Analytics,Excel,Anywhere,No,Yes,1
+1628,23,Male,B.A,Arts,4th Year,Both,Career Growth,28147,5,3,5,3,Not Preparing,SSC,Banking,Data Analysis,Chennai,Maybe,Yes,2
+1629,24,Male,B.A,Economics,3rd Year,Government,Salary,26397,2,4,1,2,Preparing,Banking,Business,Power BI,Chennai,Yes,Yes,2
+1630,24,Female,B.Com,Engineering,4th Year,Private,Skill Development,53799,5,5,2,1,Preparing,Banking,Business,Excel,Other India,Maybe,No,2
+1631,18,Male,BCA,Management,1st Year,Both,Salary,52011,3,1,4,4,Preparing,Banking,None,Data Analysis,Other Tamil Nadu,Yes,Yes,2
+1632,21,Male,B.Tech,Computer Science,3rd Year,Private,Career Growth,28647,1,2,1,1,Preparing,Railway,Core Industry,Power BI,Other Tamil Nadu,No,Yes,3
+1633,22,Female,B.E,Engineering,1st Year,Private,Career Growth,42718,3,3,2,5,Preparing,TNPSC,Business,Power BI,Other India,No,No,4
+1634,18,Male,B.A,Commerce,3rd Year,Private,Career Growth,59264,4,5,3,4,Preparing,SSC,Core Industry,Data Analysis,Chennai,No,No,1
+1635,19,Male,B.Tech,Arts,2nd Year,Private,Salary,57317,4,3,1,3,Planning,TNPSC,Data Analytics,Data Analysis,Chennai,Yes,No,3
+1636,19,Male,B.Com,Economics,3rd Year,Both,Salary,62914,5,4,5,4,Not Preparing,None,Banking,Java,Chennai,No,Yes,5
+1637,18,Male,B.Tech,Economics,4th Year,Government,Social Status,34097,5,3,4,2,Preparing,None,Banking,Python,Anywhere,No,No,4
+1638,24,Male,BBA,Management,3rd Year,Government,Job Security,51953,2,5,2,2,Planning,None,Business,Python,Bangalore,Yes,Yes,4
+1639,19,Male,B.Sc,Commerce,1st Year,Government,Job Security,73701,2,2,1,4,Not Preparing,TNPSC,Business,Excel,Chennai,Maybe,No,2
+1640,25,Female,B.A,Management,1st Year,Private,Skill Development,60254,4,2,3,5,Preparing,Other,Data Analytics,Communication,Bangalore,No,Yes,3
+1641,23,Female,B.Com,Commerce,3rd Year,Private,Career Growth,55096,1,3,4,2,Preparing,Railway,None,Data Analysis,Bangalore,Maybe,No,5
+1642,23,Male,B.E,Computer Science,4th Year,Private,Skill Development,68785,3,1,4,2,Planning,Other,None,Java,Other Tamil Nadu,Maybe,No,2
+1643,25,Male,BCA,Arts,2nd Year,Government,Work-Life Balance,67344,2,3,1,3,Not Preparing,None,None,Python,Other India,No,Yes,2
+1644,18,Female,BBA,Economics,4th Year,Private,Career Growth,64452,2,4,3,4,Preparing,Railway,Core Industry,Python,Anywhere,No,No,1
+1645,25,Male,B.Com,Economics,2nd Year,Government,Job Security,32107,1,2,2,2,Not Preparing,TNPSC,None,Java,Bangalore,Yes,No,4
+1646,22,Male,B.E,Computer Science,1st Year,Government,Job Security,69846,1,2,1,5,Planning,None,Banking,SQL,Anywhere,Yes,No,5
+1647,22,Male,BCA,Statistics,4th Year,Private,Career Growth,18010,5,2,2,1,Preparing,TNPSC,Core Industry,Java,Other Tamil Nadu,No,No,4
+1648,18,Female,BCA,Arts,2nd Year,Government,Job Security,20555,3,1,4,4,Not Preparing,Railway,Data Analytics,Python,Chennai,Maybe,No,3
+1649,25,Male,B.Com,Management,3rd Year,Government,Job Security,15067,1,1,2,3,Planning,TNPSC,Banking,Communication,Bangalore,Yes,Yes,1
+1650,22,Female,BBA,Computer Science,1st Year,Government,Job Security,43412,2,5,3,2,Planning,TNPSC,Banking,SQL,Other India,Yes,Yes,2
+1651,24,Male,B.Tech,Management,3rd Year,Government,Salary,59953,2,3,5,5,Preparing,SSC,IT,Power BI,Other Tamil Nadu,No,No,1
+1652,25,Female,B.Tech,Engineering,1st Year,Private,Skill Development,66658,4,3,3,4,Not Preparing,Other,Data Analytics,Java,Anywhere,No,No,2
+1653,24,Female,BCA,Economics,4th Year,Government,Work-Life Balance,49305,1,4,2,5,Preparing,Other,Data Analytics,Power BI,Chennai,No,Yes,1
+1654,22,Male,B.Tech,Management,4th Year,Private,Career Growth,64549,5,2,1,5,Preparing,Other,IT,SQL,Anywhere,No,Yes,2
+1655,23,Female,B.Sc,Commerce,1st Year,Private,Career Growth,77059,3,1,4,3,Not Preparing,Banking,Core Industry,SQL,Other India,Yes,No,4
+1656,22,Male,BCA,Management,1st Year,Private,Passion,26549,5,4,5,4,Not Preparing,SSC,None,SQL,Bangalore,Yes,Yes,4
+1657,24,Female,BCA,Engineering,1st Year,Both,Job Security,20680,2,4,1,2,Not Preparing,None,None,Excel,Other India,Yes,No,4
+1658,20,Male,B.E,Arts,4th Year,Private,Passion,40739,5,1,1,3,Planning,None,None,Java,Anywhere,Maybe,No,4
+1659,21,Male,B.Tech,Economics,2nd Year,Private,Salary,36209,2,3,3,2,Planning,None,None,Data Analysis,Anywhere,Yes,No,1
+1660,19,Female,BBA,Computer Science,3rd Year,Both,Job Security,56515,2,2,2,1,Not Preparing,Other,None,Communication,Other India,Yes,No,2
+1661,25,Male,BCA,Engineering,3rd Year,Government,Salary,37432,2,3,3,5,Planning,Other,IT,Communication,Other India,No,Yes,4
+1662,20,Male,BBA,Economics,4th Year,Both,Career Growth,30116,2,4,2,1,Preparing,SSC,Data Analytics,Power BI,Other India,Yes,Yes,1
+1663,22,Female,B.Sc,Management,3rd Year,Government,Salary,35045,2,2,3,5,Not Preparing,TNPSC,Core Industry,Power BI,Chennai,Yes,Yes,2
+1664,23,Male,B.E,Arts,1st Year,Government,Salary,41327,4,5,1,3,Preparing,Other,Banking,Data Analysis,Anywhere,Yes,No,1
+1665,18,Male,B.Com,Statistics,2nd Year,Government,Job Security,50709,5,4,4,2,Not Preparing,None,None,Power BI,Other Tamil Nadu,No,Yes,4
+1666,22,Female,BBA,Arts,3rd Year,Private,Salary,58617,4,3,2,2,Preparing,TNPSC,IT,Java,Chennai,Yes,No,3
+1667,23,Female,BCA,Statistics,2nd Year,Private,Passion,75139,4,3,5,3,Not Preparing,Other,Core Industry,Python,Chennai,Yes,No,1
+1668,21,Male,B.Sc,Commerce,1st Year,Private,Work-Life Balance,41905,1,3,5,4,Preparing,Railway,Core Industry,Power BI,Chennai,Maybe,Yes,4
+1669,22,Male,B.A,Arts,3rd Year,Government,Job Security,79148,1,1,1,1,Not Preparing,Banking,Core Industry,SQL,Other Tamil Nadu,Maybe,No,5
+1670,24,Female,B.Sc,Economics,4th Year,Government,Job Security,22067,1,4,3,1,Not Preparing,Other,IT,Power BI,Other India,Maybe,No,2
+1671,18,Female,B.Sc,Statistics,2nd Year,Government,Job Security,47559,3,2,3,2,Planning,Railway,Banking,SQL,Anywhere,Maybe,No,4
+1672,23,Male,B.E,Computer Science,1st Year,Government,Work-Life Balance,69243,1,3,1,2,Preparing,SSC,None,Excel,Bangalore,No,Yes,5
+1673,23,Female,B.Com,Economics,2nd Year,Both,Career Growth,57919,5,3,5,2,Planning,Railway,Core Industry,Python,Bangalore,Maybe,No,1
+1674,23,Male,B.A,Computer Science,3rd Year,Government,Family Preference,32985,4,1,5,3,Preparing,SSC,IT,Python,Anywhere,Yes,Yes,1
+1675,21,Male,B.Tech,Arts,3rd Year,Private,Salary,42369,5,2,3,4,Planning,Other,Data Analytics,Data Analysis,Other Tamil Nadu,Maybe,No,5
+1676,22,Male,B.Tech,Computer Science,4th Year,Private,Salary,32864,1,4,2,1,Not Preparing,SSC,IT,Java,Bangalore,No,Yes,5
+1677,21,Male,BBA,Statistics,1st Year,Government,Work-Life Balance,37614,3,5,4,5,Planning,Railway,IT,Java,Chennai,Maybe,No,2
+1678,25,Male,B.Sc,Economics,1st Year,Private,Passion,73446,3,1,2,3,Planning,Banking,IT,Communication,Bangalore,Maybe,Yes,1
+1679,19,Female,B.E,Management,4th Year,Government,Salary,67428,4,4,5,1,Not Preparing,TNPSC,Core Industry,Excel,Anywhere,No,Yes,5
+1680,19,Female,B.E,Engineering,4th Year,Government,Salary,62894,5,5,2,4,Planning,TNPSC,IT,Data Analysis,Chennai,No,No,3
+1681,25,Female,B.Tech,Statistics,1st Year,Government,Family Preference,79848,2,3,4,3,Not Preparing,Banking,Data Analytics,Java,Bangalore,No,No,3
+1682,22,Female,BBA,Statistics,2nd Year,Private,Career Growth,30613,5,3,2,1,Preparing,None,Core Industry,SQL,Anywhere,No,No,5
+1683,24,Male,BBA,Management,2nd Year,Government,Social Status,21447,1,2,2,3,Planning,TNPSC,Data Analytics,Excel,Other Tamil Nadu,No,No,2
+1684,21,Male,BBA,Economics,4th Year,Private,Career Growth,20499,2,5,2,1,Not Preparing,Other,Business,Python,Anywhere,No,Yes,1
+1685,18,Male,B.A,Economics,2nd Year,Private,Passion,54041,3,3,2,1,Not Preparing,None,IT,SQL,Other Tamil Nadu,Yes,No,3
+1686,23,Male,B.Com,Arts,1st Year,Government,Work-Life Balance,46315,4,3,1,4,Planning,Other,None,Data Analysis,Chennai,Maybe,Yes,5
+1687,23,Female,B.A,Computer Science,3rd Year,Private,Salary,16299,4,2,5,5,Preparing,Railway,None,Data Analysis,Anywhere,Maybe,No,5
+1688,22,Male,BCA,Arts,3rd Year,Private,Passion,69970,3,4,4,4,Planning,Railway,Core Industry,Excel,Other India,No,Yes,4
+1689,24,Male,BCA,Management,2nd Year,Government,Job Security,54469,1,3,5,1,Not Preparing,None,None,Python,Other India,No,Yes,5
+1690,19,Female,B.Com,Arts,4th Year,Government,Job Security,19994,3,1,1,3,Preparing,None,Core Industry,Java,Other India,Yes,Yes,2
+1691,19,Female,B.Tech,Management,4th Year,Private,Skill Development,44878,1,1,1,4,Planning,None,IT,SQL,Other India,Yes,No,3
+1692,23,Female,B.Com,Economics,4th Year,Government,Job Security,30627,2,4,1,5,Not Preparing,None,Banking,SQL,Other India,No,No,4
+1693,22,Female,B.E,Computer Science,4th Year,Private,Skill Development,76223,3,5,1,1,Planning,SSC,Banking,Python,Other Tamil Nadu,Yes,Yes,3
+1694,21,Male,BCA,Arts,4th Year,Government,Job Security,22489,1,2,2,4,Preparing,None,Data Analytics,SQL,Anywhere,Yes,Yes,3
+1695,19,Male,B.Sc,Statistics,2nd Year,Government,Job Security,41111,2,1,5,4,Preparing,None,IT,Java,Chennai,No,Yes,2
+1696,21,Female,B.Sc,Commerce,3rd Year,Government,Job Security,47355,3,1,3,4,Preparing,Railway,None,Java,Other India,No,Yes,5
+1697,24,Male,B.Tech,Engineering,3rd Year,Government,Job Security,23269,4,4,4,4,Preparing,Other,IT,Java,Other India,No,Yes,2
+1698,19,Male,B.E,Statistics,2nd Year,Private,Salary,17831,3,5,1,3,Preparing,Railway,Business,Python,Chennai,No,No,5
+1699,19,Male,B.A,Economics,4th Year,Government,Social Status,59370,5,5,5,5,Planning,TNPSC,Banking,Power BI,Chennai,Maybe,Yes,4
+1700,20,Female,B.E,Engineering,2nd Year,Private,Work-Life Balance,66873,3,4,1,5,Preparing,SSC,None,Power BI,Other India,Maybe,No,2
+1701,19,Male,B.Sc,Commerce,3rd Year,Both,Work-Life Balance,26819,5,1,1,1,Preparing,SSC,Banking,Data Analysis,Other Tamil Nadu,No,No,2
+1702,25,Female,B.Sc,Commerce,1st Year,Private,Career Growth,65684,2,2,1,2,Not Preparing,Other,IT,Data Analysis,Chennai,Yes,No,1
+1703,18,Male,BCA,Computer Science,2nd Year,Private,Salary,39813,3,1,1,3,Preparing,None,None,SQL,Anywhere,No,Yes,2
+1704,25,Male,B.E,Engineering,4th Year,Government,Job Security,36637,2,5,1,1,Not Preparing,Railway,Data Analytics,Java,Anywhere,Maybe,Yes,1
+1705,22,Male,B.E,Computer Science,3rd Year,Government,Job Security,16996,2,1,4,1,Not Preparing,TNPSC,IT,SQL,Other Tamil Nadu,Yes,Yes,5
+1706,22,Female,B.Sc,Statistics,3rd Year,Private,Salary,69463,1,2,5,4,Not Preparing,Railway,Data Analytics,Python,Bangalore,Maybe,Yes,5
+1707,21,Male,B.A,Management,3rd Year,Government,Job Security,59387,2,3,1,2,Planning,None,None,SQL,Other Tamil Nadu,No,No,5
+1708,25,Female,B.Tech,Management,3rd Year,Private,Career Growth,64429,2,1,1,2,Planning,None,Banking,Communication,Other India,Maybe,No,1
+1709,25,Female,BBA,Management,4th Year,Government,Family Preference,18089,3,4,1,3,Not Preparing,Banking,Business,Power BI,Bangalore,Maybe,No,5
+1710,25,Female,B.Tech,Engineering,1st Year,Private,Salary,48291,3,3,1,2,Planning,Railway,Core Industry,SQL,Other India,Maybe,Yes,3
+1711,24,Male,B.E,Management,3rd Year,Both,Career Growth,35659,4,4,2,1,Preparing,Other,Banking,SQL,Anywhere,Yes,Yes,2
+1712,19,Male,B.Tech,Statistics,2nd Year,Both,Salary,60178,1,4,2,2,Planning,Railway,Data Analytics,Excel,Chennai,Maybe,Yes,1
+1713,18,Male,B.Sc,Computer Science,1st Year,Private,Career Growth,69517,2,4,3,2,Preparing,SSC,IT,SQL,Other India,Yes,Yes,5
+1714,21,Male,B.Sc,Engineering,3rd Year,Private,Passion,45429,1,1,1,5,Preparing,TNPSC,None,Communication,Anywhere,No,Yes,3
+1715,25,Female,B.E,Computer Science,1st Year,Private,Career Growth,30732,5,5,3,1,Planning,Other,Banking,Power BI,Other Tamil Nadu,No,Yes,2
+1716,25,Female,B.E,Engineering,2nd Year,Private,Salary,34506,2,3,4,2,Planning,Banking,Business,Excel,Other India,Maybe,No,2
+1717,20,Female,BBA,Computer Science,3rd Year,Government,Job Security,55935,1,2,3,2,Not Preparing,TNPSC,None,Python,Anywhere,Yes,No,5
+1718,21,Male,BBA,Commerce,2nd Year,Government,Salary,20190,4,5,5,4,Planning,TNPSC,Data Analytics,Data Analysis,Chennai,No,Yes,3
+1719,25,Female,BCA,Computer Science,4th Year,Private,Career Growth,19575,4,1,2,2,Planning,SSC,None,Python,Other India,Yes,No,1
+1720,21,Male,B.E,Management,3rd Year,Both,Work-Life Balance,55495,2,4,2,2,Planning,SSC,None,Power BI,Anywhere,Yes,No,5
+1721,19,Female,B.A,Commerce,3rd Year,Government,Social Status,63146,5,2,1,5,Preparing,SSC,IT,Data Analysis,Other India,Maybe,No,2
+1722,20,Male,B.Tech,Computer Science,3rd Year,Private,Passion,49565,4,3,1,1,Preparing,Other,Core Industry,Python,Chennai,Maybe,No,2
+1723,21,Male,B.E,Engineering,3rd Year,Private,Career Growth,49899,4,5,4,3,Preparing,Railway,Data Analytics,Communication,Other India,Yes,Yes,2
+1724,18,Female,B.Com,Engineering,4th Year,Private,Passion,38706,5,5,4,1,Not Preparing,TNPSC,IT,SQL,Other India,Yes,No,5
+1725,18,Female,BCA,Engineering,3rd Year,Private,Salary,62668,1,2,5,4,Not Preparing,Railway,Core Industry,Power BI,Anywhere,Maybe,Yes,4
+1726,22,Female,B.Com,Economics,1st Year,Government,Job Security,79106,4,1,1,1,Not Preparing,Railway,IT,Data Analysis,Bangalore,Yes,Yes,4
+1727,20,Female,B.Sc,Statistics,3rd Year,Private,Skill Development,37884,3,3,1,2,Preparing,SSC,Core Industry,Excel,Other India,Maybe,No,4
+1728,20,Male,BBA,Engineering,4th Year,Private,Career Growth,32199,4,2,4,4,Planning,Railway,Core Industry,SQL,Bangalore,Yes,Yes,3
+1729,22,Female,B.Tech,Commerce,3rd Year,Private,Career Growth,75038,1,4,4,1,Not Preparing,TNPSC,Core Industry,Python,Other Tamil Nadu,Maybe,No,5
+1730,21,Female,B.E,Engineering,1st Year,Government,Work-Life Balance,72786,1,3,4,4,Not Preparing,TNPSC,IT,Python,Other India,Yes,Yes,2
+1731,20,Female,B.Com,Economics,4th Year,Private,Career Growth,59100,2,5,2,3,Preparing,None,None,Excel,Bangalore,Maybe,Yes,3
+1732,18,Male,B.Tech,Management,4th Year,Private,Skill Development,54434,3,2,3,1,Not Preparing,Banking,Core Industry,Communication,Other Tamil Nadu,Yes,No,4
+1733,18,Male,B.Sc,Commerce,1st Year,Government,Job Security,64294,1,5,3,2,Planning,Other,None,Excel,Anywhere,No,No,1
+1734,25,Female,BBA,Economics,1st Year,Private,Passion,27479,5,5,1,4,Preparing,Railway,Data Analytics,Power BI,Other India,No,Yes,3
+1735,19,Male,B.A,Management,1st Year,Private,Work-Life Balance,49178,3,5,2,5,Preparing,Other,Business,Excel,Anywhere,Yes,No,3
+1736,20,Female,BCA,Arts,1st Year,Private,Passion,27665,3,1,4,4,Planning,Other,None,Python,Other Tamil Nadu,No,Yes,5
+1737,21,Male,B.Tech,Arts,1st Year,Both,Career Growth,79068,5,5,1,5,Planning,Other,Business,Communication,Anywhere,Yes,No,3
+1738,22,Male,B.Tech,Commerce,4th Year,Private,Career Growth,15534,4,4,2,2,Planning,None,Core Industry,Communication,Anywhere,Yes,Yes,5
+1739,22,Male,B.A,Computer Science,4th Year,Private,Salary,41292,5,4,5,3,Not Preparing,Other,Business,Java,Chennai,No,Yes,1
+1740,21,Male,B.Tech,Statistics,3rd Year,Private,Career Growth,51132,5,3,2,5,Planning,None,Business,Excel,Other Tamil Nadu,Yes,Yes,2
+1741,24,Female,B.Sc,Statistics,3rd Year,Government,Job Security,65184,4,5,1,3,Preparing,TNPSC,Core Industry,Power BI,Anywhere,Maybe,Yes,2
+1742,23,Female,B.Sc,Economics,2nd Year,Government,Work-Life Balance,51110,4,5,3,4,Planning,Railway,None,Python,Bangalore,Yes,Yes,4
+1743,19,Female,B.A,Management,3rd Year,Private,Salary,73754,4,2,4,2,Preparing,None,Core Industry,SQL,Other Tamil Nadu,Yes,No,4
+1744,22,Male,BCA,Statistics,3rd Year,Government,Family Preference,78580,4,1,5,5,Preparing,Banking,Data Analytics,Communication,Chennai,No,Yes,1
+1745,20,Female,B.E,Management,1st Year,Government,Job Security,37469,4,3,2,4,Not Preparing,Other,Banking,Excel,Other India,Maybe,No,2
+1746,19,Female,B.Com,Management,1st Year,Both,Career Growth,79016,5,5,1,1,Planning,Banking,IT,Java,Anywhere,Yes,No,4
+1747,20,Female,B.E,Economics,3rd Year,Private,Career Growth,61233,2,2,1,4,Not Preparing,TNPSC,Core Industry,Power BI,Bangalore,Yes,Yes,3
+1748,24,Male,B.Tech,Economics,2nd Year,Private,Work-Life Balance,52268,2,1,4,3,Planning,TNPSC,Core Industry,Power BI,Chennai,Yes,Yes,5
+1749,18,Male,B.Com,Economics,1st Year,Both,Work-Life Balance,79327,1,3,1,2,Planning,SSC,Business,Data Analysis,Other Tamil Nadu,Yes,No,4
+1750,19,Male,B.A,Statistics,3rd Year,Private,Passion,16172,2,3,1,2,Planning,Other,Data Analytics,Python,Anywhere,Yes,Yes,1
+1751,25,Female,B.A,Arts,3rd Year,Government,Family Preference,73232,2,5,4,4,Planning,SSC,Business,Communication,Chennai,Yes,Yes,2
+1752,22,Female,BCA,Economics,4th Year,Government,Salary,42914,5,3,5,1,Planning,Banking,None,Python,Chennai,Maybe,No,1
+1753,19,Female,B.Com,Statistics,2nd Year,Private,Salary,35901,4,2,3,3,Preparing,Railway,Core Industry,Java,Bangalore,Maybe,No,5
+1754,19,Male,B.Sc,Economics,4th Year,Private,Salary,55775,4,3,3,4,Preparing,SSC,Core Industry,SQL,Other India,Yes,No,5
+1755,19,Male,B.Com,Engineering,2nd Year,Government,Work-Life Balance,49409,5,4,2,4,Planning,TNPSC,Business,SQL,Other India,Yes,No,1
+1756,23,Female,B.Tech,Management,1st Year,Private,Salary,64623,2,2,5,2,Preparing,Other,Core Industry,SQL,Other India,No,No,4
+1757,19,Male,B.Sc,Economics,2nd Year,Government,Salary,34324,5,1,2,3,Not Preparing,Banking,None,Power BI,Other Tamil Nadu,Maybe,No,4
+1758,20,Male,BBA,Commerce,3rd Year,Private,Work-Life Balance,23738,1,1,3,1,Not Preparing,None,Banking,Communication,Chennai,Maybe,Yes,2
+1759,18,Male,BBA,Management,3rd Year,Private,Work-Life Balance,52494,4,5,4,2,Not Preparing,TNPSC,IT,Python,Other Tamil Nadu,Yes,No,2
+1760,24,Male,BBA,Management,2nd Year,Private,Passion,59557,3,5,1,4,Planning,None,IT,Python,Chennai,Maybe,No,3
+1761,21,Female,B.A,Economics,2nd Year,Both,Work-Life Balance,39054,1,4,3,2,Planning,Railway,IT,Java,Bangalore,Maybe,Yes,3
+1762,19,Male,B.Com,Arts,2nd Year,Private,Skill Development,44709,1,1,5,2,Preparing,Other,Banking,SQL,Bangalore,No,Yes,2
+1763,22,Male,BBA,Computer Science,4th Year,Both,Salary,58785,5,1,3,5,Preparing,Railway,Core Industry,Communication,Other Tamil Nadu,No,Yes,3
+1764,19,Male,B.E,Arts,2nd Year,Both,Salary,35107,2,1,5,2,Preparing,Railway,Business,Communication,Other Tamil Nadu,Maybe,Yes,1
+1765,22,Male,BCA,Economics,1st Year,Private,Skill Development,78269,4,1,5,2,Not Preparing,Other,Data Analytics,Java,Bangalore,Maybe,Yes,4
+1766,20,Female,B.E,Management,4th Year,Private,Skill Development,15363,3,3,5,3,Not Preparing,Other,Core Industry,Excel,Anywhere,Maybe,Yes,3
+1767,22,Female,BBA,Commerce,4th Year,Government,Job Security,25358,1,2,2,2,Not Preparing,None,Banking,Communication,Other India,Yes,No,3
+1768,25,Male,BCA,Management,2nd Year,Private,Work-Life Balance,51077,3,2,4,1,Not Preparing,Railway,None,Communication,Other India,No,Yes,1
+1769,21,Male,B.Tech,Arts,1st Year,Private,Career Growth,64697,2,4,3,4,Preparing,Banking,Banking,Python,Bangalore,Yes,Yes,5
+1770,18,Male,B.E,Commerce,4th Year,Government,Job Security,18240,2,3,4,3,Planning,None,IT,Java,Other India,No,Yes,2
+1771,22,Male,B.Com,Statistics,3rd Year,Government,Work-Life Balance,21665,3,1,1,2,Planning,Other,Core Industry,Communication,Anywhere,No,Yes,1
+1772,22,Male,B.Com,Engineering,4th Year,Both,Salary,60689,4,1,3,1,Not Preparing,TNPSC,IT,Communication,Anywhere,No,No,5
+1773,18,Male,B.E,Management,2nd Year,Both,Salary,16936,2,5,4,4,Planning,None,Data Analytics,Python,Chennai,Maybe,Yes,1
+1774,21,Female,BBA,Economics,1st Year,Private,Salary,61736,3,5,4,3,Planning,SSC,None,Communication,Other Tamil Nadu,No,Yes,4
+1775,19,Male,B.Com,Statistics,2nd Year,Government,Social Status,40538,1,4,1,1,Planning,Banking,IT,Python,Other India,Yes,No,1
+1776,22,Female,B.Tech,Engineering,3rd Year,Government,Salary,58965,3,1,5,2,Not Preparing,None,Data Analytics,Excel,Anywhere,No,No,1
+1777,18,Female,B.Sc,Economics,3rd Year,Government,Work-Life Balance,26998,3,4,3,5,Preparing,Other,Banking,Power BI,Other Tamil Nadu,Yes,No,4
+1778,25,Male,BBA,Computer Science,3rd Year,Government,Work-Life Balance,15882,5,3,3,5,Preparing,Other,IT,Data Analysis,Other Tamil Nadu,No,Yes,2
+1779,25,Female,B.Tech,Economics,2nd Year,Government,Job Security,35224,2,2,1,3,Planning,Banking,IT,Python,Chennai,No,No,5
+1780,20,Female,BCA,Commerce,4th Year,Government,Family Preference,54691,4,1,5,1,Preparing,SSC,Business,Python,Other Tamil Nadu,Maybe,No,3
+1781,18,Female,B.Tech,Commerce,2nd Year,Both,Salary,73214,4,3,3,4,Preparing,None,None,Communication,Other Tamil Nadu,Yes,No,2
+1782,20,Female,BBA,Computer Science,1st Year,Private,Work-Life Balance,68763,5,1,3,1,Not Preparing,None,None,Python,Bangalore,No,Yes,1
+1783,25,Female,BCA,Statistics,4th Year,Government,Salary,75329,4,5,3,5,Not Preparing,Railway,Banking,Java,Chennai,No,Yes,3
+1784,21,Female,BBA,Engineering,3rd Year,Government,Family Preference,61476,3,4,5,3,Planning,TNPSC,Business,SQL,Chennai,Yes,No,4
+1785,19,Male,B.Com,Economics,2nd Year,Private,Career Growth,73209,5,5,1,2,Planning,Other,Data Analytics,SQL,Other India,No,Yes,2
+1786,18,Female,B.Sc,Commerce,3rd Year,Government,Salary,45825,1,2,3,1,Planning,None,Data Analytics,Excel,Other Tamil Nadu,Maybe,Yes,5
+1787,24,Female,BBA,Statistics,3rd Year,Both,Salary,20204,2,5,4,5,Not Preparing,None,Banking,Python,Other India,Yes,Yes,2
+1788,25,Female,BBA,Computer Science,1st Year,Government,Job Security,43885,2,1,5,4,Preparing,None,None,Java,Anywhere,Maybe,Yes,2
+1789,25,Male,B.Com,Arts,4th Year,Government,Work-Life Balance,55056,2,5,2,3,Not Preparing,SSC,Data Analytics,Communication,Other Tamil Nadu,Yes,Yes,3
+1790,24,Female,B.A,Management,1st Year,Government,Job Security,18203,3,1,1,2,Not Preparing,TNPSC,Banking,Communication,Anywhere,Yes,No,4
+1791,23,Male,B.Com,Arts,1st Year,Government,Work-Life Balance,75241,1,2,4,1,Preparing,None,Data Analytics,Data Analysis,Bangalore,Yes,No,4
+1792,25,Female,BCA,Arts,1st Year,Private,Career Growth,17244,5,5,3,4,Preparing,Banking,Core Industry,Power BI,Other Tamil Nadu,No,No,2
+1793,22,Male,B.Com,Commerce,3rd Year,Private,Salary,47786,5,4,2,2,Planning,Other,IT,Excel,Other India,Yes,No,4
+1794,21,Male,B.Com,Computer Science,1st Year,Private,Passion,64793,2,4,1,5,Preparing,Railway,None,Java,Other India,Yes,Yes,3
+1795,18,Female,B.Sc,Economics,1st Year,Government,Salary,18083,1,4,5,5,Preparing,Banking,Core Industry,Java,Other Tamil Nadu,Yes,No,3
+1796,24,Female,B.Com,Arts,4th Year,Private,Skill Development,36584,1,5,2,4,Preparing,Other,Banking,Data Analysis,Other India,Maybe,No,5
+1797,22,Male,BBA,Arts,4th Year,Private,Skill Development,23521,1,5,2,5,Preparing,SSC,Banking,Data Analysis,Other Tamil Nadu,Yes,Yes,4
+1798,24,Female,B.Sc,Engineering,1st Year,Both,Work-Life Balance,65017,4,5,4,3,Planning,TNPSC,Core Industry,Communication,Chennai,No,Yes,5
+1799,18,Male,B.E,Commerce,4th Year,Government,Job Security,48541,4,1,1,4,Planning,TNPSC,IT,Power BI,Other India,Yes,Yes,1
+1800,20,Male,B.A,Commerce,4th Year,Government,Work-Life Balance,44063,2,2,4,5,Preparing,Other,IT,Communication,Other Tamil Nadu,Yes,Yes,3
+1801,18,Male,B.Sc,Economics,1st Year,Private,Work-Life Balance,19732,1,4,4,1,Preparing,Banking,Business,Power BI,Other Tamil Nadu,Maybe,No,2
+1802,23,Male,BCA,Management,3rd Year,Private,Skill Development,74698,1,1,3,5,Planning,Railway,Data Analytics,SQL,Other India,No,Yes,3
+1803,18,Male,B.E,Statistics,1st Year,Private,Salary,75682,5,4,5,3,Planning,SSC,Business,Java,Chennai,No,Yes,1
+1804,18,Female,B.Sc,Engineering,4th Year,Government,Work-Life Balance,67670,5,1,2,2,Preparing,Other,IT,Data Analysis,Other India,No,Yes,2
+1805,23,Male,B.Sc,Commerce,3rd Year,Private,Skill Development,79952,2,5,1,2,Not Preparing,SSC,Core Industry,SQL,Other Tamil Nadu,Yes,Yes,4
+1806,21,Male,B.A,Engineering,2nd Year,Both,Job Security,42518,1,4,5,5,Planning,TNPSC,Data Analytics,Communication,Chennai,Yes,Yes,4
+1807,25,Female,BBA,Commerce,3rd Year,Private,Career Growth,54563,2,5,5,2,Planning,None,Core Industry,Excel,Anywhere,No,Yes,3
+1808,18,Male,BCA,Engineering,4th Year,Both,Salary,54752,5,4,1,5,Planning,None,Business,Python,Bangalore,No,No,2
+1809,23,Female,B.Tech,Computer Science,3rd Year,Private,Passion,44697,5,3,5,3,Preparing,Railway,Banking,Excel,Other India,Maybe,No,2
+1810,22,Female,B.Tech,Arts,1st Year,Both,Career Growth,17567,4,1,3,2,Preparing,SSC,Core Industry,Excel,Other Tamil Nadu,No,No,5
+1811,20,Female,B.Sc,Commerce,2nd Year,Private,Skill Development,31121,2,3,5,1,Planning,Other,Business,Python,Chennai,Yes,Yes,1
+1812,20,Male,B.Com,Engineering,2nd Year,Government,Job Security,16674,2,1,3,5,Preparing,Railway,Business,Java,Chennai,Yes,Yes,4
+1813,18,Male,BCA,Statistics,2nd Year,Both,Job Security,25875,1,2,2,2,Preparing,Banking,Business,SQL,Anywhere,Yes,No,3
+1814,21,Male,B.E,Computer Science,4th Year,Government,Job Security,59340,1,4,2,3,Planning,None,Banking,SQL,Other India,Maybe,No,2
+1815,21,Female,B.Com,Computer Science,4th Year,Both,Salary,15739,4,2,4,3,Preparing,Other,Banking,Java,Chennai,No,No,4
+1816,22,Male,B.Com,Statistics,2nd Year,Private,Work-Life Balance,16545,3,2,3,1,Not Preparing,SSC,Banking,Python,Anywhere,Yes,No,3
+1817,18,Female,BCA,Engineering,3rd Year,Government,Social Status,44140,3,1,2,3,Preparing,Railway,Data Analytics,Power BI,Other Tamil Nadu,Maybe,Yes,4
+1818,20,Male,BBA,Economics,2nd Year,Private,Skill Development,74603,3,3,5,3,Preparing,Other,Banking,Excel,Anywhere,Maybe,No,3
+1819,21,Female,B.Sc,Statistics,3rd Year,Both,Career Growth,24327,2,5,1,2,Planning,Railway,Banking,Communication,Other India,Yes,Yes,4
+1820,18,Male,B.Sc,Engineering,3rd Year,Government,Work-Life Balance,20127,2,1,1,5,Planning,Railway,Banking,SQL,Anywhere,Maybe,Yes,5
+1821,24,Male,B.Sc,Statistics,4th Year,Private,Skill Development,38331,5,5,3,4,Not Preparing,Railway,Core Industry,Java,Chennai,Maybe,Yes,1
+1822,21,Male,B.Sc,Statistics,3rd Year,Private,Skill Development,38004,2,2,4,3,Preparing,SSC,Banking,Communication,Chennai,Yes,No,4
+1823,23,Female,B.Tech,Commerce,2nd Year,Private,Career Growth,56833,2,5,5,3,Not Preparing,Other,Data Analytics,Data Analysis,Bangalore,Maybe,No,1
+1824,24,Female,B.Sc,Engineering,4th Year,Government,Work-Life Balance,68707,2,3,3,4,Not Preparing,TNPSC,Business,Python,Anywhere,Yes,No,4
+1825,25,Male,B.Tech,Economics,1st Year,Government,Social Status,25492,4,1,1,3,Planning,TNPSC,Core Industry,Communication,Other Tamil Nadu,Yes,Yes,2
+1826,21,Male,B.Tech,Arts,1st Year,Government,Family Preference,69797,2,3,3,2,Preparing,SSC,IT,Communication,Other India,Maybe,Yes,5
+1827,20,Female,BBA,Commerce,4th Year,Private,Career Growth,73095,1,3,5,2,Planning,SSC,Banking,Excel,Bangalore,Yes,No,5
+1828,19,Female,B.Sc,Statistics,2nd Year,Private,Skill Development,28749,1,1,2,4,Not Preparing,None,Business,Python,Anywhere,Yes,Yes,1
+1829,24,Female,B.A,Arts,1st Year,Both,Job Security,78217,5,3,5,3,Not Preparing,Railway,Business,Communication,Other Tamil Nadu,No,No,2
+1830,25,Male,B.E,Management,1st Year,Government,Salary,38508,4,4,2,3,Planning,Other,Core Industry,SQL,Bangalore,Yes,Yes,3
+1831,22,Female,B.Com,Arts,3rd Year,Private,Career Growth,24045,1,4,2,5,Planning,Other,IT,Python,Chennai,No,Yes,5
+1832,22,Male,B.Tech,Statistics,3rd Year,Government,Salary,35116,4,4,2,3,Planning,Banking,None,SQL,Other India,No,Yes,2
+1833,20,Female,BCA,Statistics,2nd Year,Government,Job Security,33667,4,5,3,2,Planning,Banking,Data Analytics,Java,Anywhere,No,Yes,2
+1834,21,Male,BCA,Engineering,4th Year,Private,Salary,24521,5,3,1,1,Planning,TNPSC,None,Java,Other Tamil Nadu,No,Yes,1
+1835,18,Female,B.E,Engineering,2nd Year,Private,Skill Development,23669,4,1,3,1,Not Preparing,Banking,Business,Data Analysis,Chennai,Maybe,Yes,2
+1836,21,Female,BCA,Commerce,4th Year,Private,Skill Development,42302,2,1,1,1,Planning,Banking,None,Power BI,Bangalore,Maybe,Yes,2
+1837,20,Female,B.A,Economics,1st Year,Both,Job Security,26283,4,5,5,1,Preparing,TNPSC,Business,Java,Other India,Yes,No,3
+1838,22,Female,BCA,Commerce,3rd Year,Private,Work-Life Balance,45935,5,1,4,3,Not Preparing,None,None,Communication,Bangalore,Yes,Yes,1
+1839,21,Female,B.Com,Computer Science,2nd Year,Both,Career Growth,21998,5,4,5,3,Not Preparing,TNPSC,Business,Python,Bangalore,Yes,Yes,1
+1840,22,Male,B.Com,Statistics,2nd Year,Both,Salary,43806,5,3,3,5,Preparing,Banking,Business,Java,Other Tamil Nadu,Maybe,No,2
+1841,24,Female,B.Tech,Arts,4th Year,Private,Skill Development,46624,1,1,3,3,Preparing,Other,Core Industry,SQL,Chennai,No,No,3
+1842,25,Female,B.Sc,Management,4th Year,Private,Career Growth,28440,2,1,1,1,Not Preparing,Banking,IT,Communication,Anywhere,Maybe,No,4
+1843,18,Female,BBA,Statistics,2nd Year,Private,Salary,60465,1,2,3,4,Planning,Railway,Business,Java,Other Tamil Nadu,Maybe,No,5
+1844,24,Male,B.A,Statistics,4th Year,Government,Job Security,61501,3,2,2,4,Not Preparing,Railway,Data Analytics,Excel,Other India,Yes,Yes,1
+1845,22,Female,B.Tech,Commerce,2nd Year,Private,Career Growth,36797,2,2,3,2,Not Preparing,Railway,Data Analytics,SQL,Bangalore,Yes,Yes,3
+1846,22,Male,B.A,Management,2nd Year,Government,Social Status,16269,4,3,1,2,Preparing,None,Banking,Data Analysis,Other India,Yes,No,3
+1847,19,Female,B.Sc,Management,2nd Year,Private,Career Growth,22868,5,4,1,3,Not Preparing,SSC,Business,Data Analysis,Other Tamil Nadu,No,Yes,2
+1848,19,Female,BCA,Management,1st Year,Private,Salary,45251,3,4,2,4,Planning,Railway,Business,Data Analysis,Other Tamil Nadu,No,No,5
+1849,24,Male,BCA,Commerce,4th Year,Government,Job Security,27373,2,4,1,1,Preparing,Other,Business,SQL,Anywhere,Maybe,Yes,1
+1850,23,Female,BBA,Statistics,3rd Year,Government,Work-Life Balance,33987,1,3,4,1,Not Preparing,None,None,Data Analysis,Bangalore,No,Yes,4
+1851,24,Male,B.Sc,Commerce,3rd Year,Both,Career Growth,53729,5,3,5,1,Not Preparing,SSC,Business,Power BI,Other Tamil Nadu,Yes,Yes,2
+1852,19,Male,B.Tech,Engineering,4th Year,Private,Skill Development,30734,1,2,3,3,Planning,SSC,Business,Excel,Other India,No,Yes,1
+1853,22,Female,BBA,Engineering,2nd Year,Government,Salary,57429,2,1,4,3,Not Preparing,Railway,Data Analytics,Power BI,Anywhere,No,Yes,1
+1854,20,Male,B.Sc,Commerce,3rd Year,Private,Career Growth,56337,2,5,3,5,Not Preparing,Banking,IT,Java,Other India,No,No,3
+1855,24,Female,B.E,Management,3rd Year,Private,Salary,55325,3,5,4,1,Not Preparing,TNPSC,IT,Excel,Bangalore,No,Yes,5
+1856,22,Female,B.Com,Statistics,4th Year,Private,Career Growth,33064,4,1,3,1,Not Preparing,Banking,Banking,SQL,Anywhere,Yes,Yes,4
+1857,20,Male,BBA,Commerce,3rd Year,Both,Career Growth,77514,1,2,2,3,Planning,Banking,Data Analytics,Power BI,Anywhere,Yes,Yes,5
+1858,20,Male,BBA,Commerce,2nd Year,Private,Salary,23433,3,1,1,3,Not Preparing,SSC,Business,Communication,Anywhere,Maybe,Yes,3
+1859,19,Male,B.Tech,Commerce,4th Year,Government,Family Preference,63421,5,1,1,5,Not Preparing,SSC,IT,Excel,Chennai,Maybe,Yes,4
+1860,24,Male,B.A,Computer Science,2nd Year,Private,Career Growth,24111,4,5,2,5,Not Preparing,None,Core Industry,SQL,Anywhere,Maybe,No,4
+1861,21,Female,B.E,Engineering,3rd Year,Both,Job Security,53450,3,2,4,2,Preparing,None,Core Industry,Python,Other India,No,Yes,2
+1862,18,Female,B.Tech,Arts,3rd Year,Government,Job Security,78753,1,3,5,4,Planning,SSC,Core Industry,Excel,Other India,No,No,4
+1863,19,Male,B.Sc,Management,2nd Year,Government,Job Security,63247,2,5,4,1,Preparing,Other,Business,Excel,Bangalore,Yes,Yes,1
+1864,19,Female,B.Sc,Economics,1st Year,Government,Salary,30047,5,3,1,1,Preparing,Other,Business,Java,Other Tamil Nadu,Maybe,Yes,5
+1865,21,Female,B.Sc,Arts,3rd Year,Private,Work-Life Balance,23084,1,2,5,5,Planning,TNPSC,Banking,Communication,Other Tamil Nadu,Yes,No,5
+1866,18,Female,B.Sc,Management,1st Year,Private,Career Growth,36751,4,1,3,5,Preparing,SSC,Banking,Java,Chennai,Maybe,Yes,2
+1867,22,Female,B.A,Economics,3rd Year,Private,Career Growth,31453,4,4,5,2,Preparing,Railway,Banking,Data Analysis,Anywhere,Maybe,Yes,4
+1868,23,Male,B.E,Computer Science,1st Year,Both,Career Growth,35308,2,4,4,4,Preparing,None,None,Excel,Chennai,Maybe,No,3
+1869,24,Male,BCA,Commerce,1st Year,Private,Career Growth,53968,2,2,2,2,Planning,SSC,Core Industry,Excel,Bangalore,No,Yes,1
+1870,23,Female,B.Com,Computer Science,1st Year,Government,Job Security,45077,5,4,3,4,Not Preparing,Other,Business,Data Analysis,Bangalore,Maybe,No,2
+1871,22,Male,B.A,Computer Science,2nd Year,Government,Work-Life Balance,58046,5,3,4,1,Planning,SSC,Core Industry,Communication,Other Tamil Nadu,Maybe,No,4
+1872,25,Male,B.A,Arts,1st Year,Government,Job Security,49775,2,4,3,2,Planning,Other,Banking,Communication,Bangalore,No,No,3
+1873,19,Male,BCA,Statistics,1st Year,Government,Job Security,73144,2,2,5,5,Planning,SSC,Business,Power BI,Anywhere,Maybe,Yes,4
+1874,18,Female,BCA,Arts,1st Year,Private,Skill Development,63570,4,2,1,2,Preparing,Railway,Data Analytics,SQL,Other India,No,Yes,2
+1875,19,Female,B.Com,Engineering,3rd Year,Both,Career Growth,61097,2,3,4,2,Not Preparing,TNPSC,IT,SQL,Bangalore,No,No,3
+1876,20,Female,B.Com,Economics,1st Year,Government,Job Security,39503,3,4,2,1,Planning,Railway,IT,Power BI,Chennai,Yes,Yes,3
+1877,19,Male,BCA,Commerce,3rd Year,Private,Career Growth,17779,1,4,5,5,Planning,Other,Banking,SQL,Anywhere,No,No,3
+1878,19,Female,B.Sc,Arts,1st Year,Private,Skill Development,36304,2,1,4,5,Not Preparing,None,Core Industry,Excel,Bangalore,No,Yes,3
+1879,22,Female,B.A,Economics,1st Year,Government,Job Security,15755,5,5,2,3,Not Preparing,None,Data Analytics,Power BI,Bangalore,No,No,4
+1880,22,Male,B.Tech,Management,2nd Year,Government,Salary,54263,3,2,4,3,Not Preparing,Banking,Business,Power BI,Anywhere,Maybe,Yes,3
+1881,22,Female,B.Com,Economics,3rd Year,Private,Career Growth,57955,5,1,5,3,Preparing,Railway,Core Industry,SQL,Bangalore,Yes,No,4
+1882,23,Female,B.Com,Management,1st Year,Government,Work-Life Balance,70087,3,2,4,1,Not Preparing,SSC,Banking,Python,Other India,Maybe,Yes,3
+1883,20,Male,BCA,Arts,3rd Year,Both,Career Growth,57281,2,1,3,2,Preparing,TNPSC,Core Industry,SQL,Other Tamil Nadu,No,No,3
+1884,25,Male,B.E,Engineering,3rd Year,Government,Work-Life Balance,66482,1,5,5,5,Planning,SSC,Banking,Java,Anywhere,No,Yes,2
+1885,25,Male,B.Tech,Arts,4th Year,Government,Social Status,69857,5,1,4,5,Preparing,SSC,None,Python,Chennai,Yes,No,4
+1886,22,Female,B.Tech,Management,2nd Year,Private,Skill Development,72453,3,2,1,2,Not Preparing,Railway,IT,Power BI,Bangalore,Yes,Yes,4
+1887,18,Female,B.Com,Economics,2nd Year,Both,Career Growth,32400,4,4,4,5,Preparing,TNPSC,IT,Python,Other Tamil Nadu,No,Yes,5
+1888,23,Female,B.Sc,Economics,2nd Year,Government,Job Security,55115,2,2,3,2,Not Preparing,Banking,Core Industry,Excel,Chennai,No,No,2
+1889,21,Male,B.E,Management,4th Year,Government,Job Security,29249,1,3,2,1,Preparing,SSC,Data Analytics,Communication,Chennai,Maybe,Yes,4
+1890,18,Male,B.Tech,Computer Science,4th Year,Government,Job Security,62647,2,3,2,1,Planning,TNPSC,Business,Python,Other India,No,Yes,2
+1891,24,Female,B.Com,Engineering,2nd Year,Government,Job Security,61825,4,3,2,1,Preparing,Banking,Banking,Java,Other Tamil Nadu,Maybe,Yes,2
+1892,24,Female,B.Tech,Statistics,4th Year,Government,Social Status,59825,1,3,1,2,Planning,SSC,Business,Communication,Anywhere,Yes,Yes,2
+1893,18,Male,BBA,Commerce,4th Year,Private,Salary,39600,4,5,3,2,Not Preparing,TNPSC,IT,Excel,Other Tamil Nadu,Maybe,No,1
+1894,22,Male,B.E,Economics,4th Year,Government,Salary,52706,2,4,5,4,Planning,Railway,Data Analytics,Java,Other Tamil Nadu,No,Yes,4
+1895,21,Male,B.E,Commerce,2nd Year,Government,Work-Life Balance,34222,3,4,2,5,Not Preparing,None,Data Analytics,Data Analysis,Chennai,Maybe,Yes,2
+1896,21,Male,BBA,Statistics,2nd Year,Private,Skill Development,48505,2,2,3,5,Not Preparing,None,Business,Communication,Other India,Maybe,No,1
+1897,23,Female,B.A,Arts,2nd Year,Government,Job Security,53968,2,1,4,4,Planning,SSC,IT,Data Analysis,Other India,Yes,Yes,1
+1898,21,Male,BBA,Commerce,4th Year,Government,Social Status,56139,2,2,1,4,Planning,SSC,Business,Excel,Other Tamil Nadu,Maybe,No,3
+1899,24,Female,BCA,Statistics,2nd Year,Government,Job Security,64383,5,2,3,1,Preparing,TNPSC,Core Industry,Communication,Other Tamil Nadu,No,Yes,3
+1900,20,Female,BCA,Management,4th Year,Both,Job Security,66069,4,2,3,4,Preparing,None,Data Analytics,Communication,Bangalore,Maybe,No,4
+1901,22,Female,B.Com,Computer Science,1st Year,Government,Social Status,56302,4,2,5,2,Planning,SSC,Data Analytics,SQL,Chennai,Maybe,Yes,3
+1902,21,Male,B.E,Economics,4th Year,Both,Job Security,44148,4,4,3,3,Planning,Banking,Core Industry,Java,Anywhere,Maybe,No,4
+1903,23,Male,B.A,Statistics,3rd Year,Private,Skill Development,37302,5,1,5,2,Planning,SSC,IT,Java,Anywhere,No,No,1
+1904,24,Male,B.A,Commerce,2nd Year,Government,Job Security,17623,3,2,1,4,Planning,None,Data Analytics,Python,Other India,Maybe,No,1
+1905,20,Male,B.Tech,Economics,2nd Year,Both,Career Growth,23646,2,4,1,5,Not Preparing,Other,None,Data Analysis,Chennai,No,Yes,4
+1906,19,Female,B.Tech,Computer Science,3rd Year,Government,Work-Life Balance,28543,3,2,4,2,Planning,None,None,Data Analysis,Other India,Maybe,No,3
+1907,19,Male,BBA,Management,4th Year,Government,Job Security,43960,5,3,5,5,Planning,Banking,None,Java,Anywhere,Yes,Yes,3
+1908,20,Male,B.A,Arts,1st Year,Private,Passion,77676,4,2,5,2,Planning,TNPSC,Banking,Java,Other Tamil Nadu,Yes,No,4
+1909,24,Female,BBA,Economics,3rd Year,Private,Salary,37785,2,2,2,5,Planning,Banking,Banking,Communication,Chennai,Yes,No,5
+1910,23,Male,BBA,Arts,3rd Year,Private,Career Growth,27817,1,5,2,2,Not Preparing,Other,IT,Data Analysis,Chennai,No,No,3
+1911,20,Female,B.Tech,Statistics,4th Year,Government,Job Security,46406,1,3,4,5,Preparing,Other,Core Industry,Power BI,Bangalore,No,Yes,2
+1912,22,Female,B.E,Computer Science,2nd Year,Private,Salary,38456,3,1,1,3,Preparing,SSC,Business,SQL,Other Tamil Nadu,No,Yes,3
+1913,22,Female,BBA,Commerce,4th Year,Private,Skill Development,66428,4,2,2,1,Preparing,SSC,IT,Python,Other Tamil Nadu,Maybe,No,5
+1914,19,Female,B.Sc,Computer Science,3rd Year,Government,Work-Life Balance,38777,1,1,3,2,Preparing,None,Business,SQL,Other India,No,No,1
+1915,21,Female,B.E,Computer Science,3rd Year,Government,Work-Life Balance,72939,3,3,1,3,Preparing,Railway,IT,Python,Chennai,No,No,1
+1916,23,Female,B.A,Engineering,2nd Year,Government,Social Status,68026,5,2,3,1,Not Preparing,Banking,Banking,Excel,Other India,No,No,1
+1917,19,Female,B.A,Computer Science,2nd Year,Government,Social Status,35914,3,5,5,2,Preparing,None,None,Communication,Other Tamil Nadu,No,No,3
+1918,21,Female,BBA,Computer Science,2nd Year,Both,Work-Life Balance,44553,3,4,1,3,Not Preparing,Railway,Core Industry,Java,Bangalore,Yes,No,1
+1919,21,Male,B.E,Economics,4th Year,Government,Job Security,38548,3,5,4,3,Not Preparing,None,Banking,Java,Chennai,Maybe,No,5
+1920,25,Male,B.Tech,Commerce,2nd Year,Both,Job Security,78221,2,5,5,3,Preparing,Other,Core Industry,Power BI,Other Tamil Nadu,Yes,No,5
+1921,22,Male,B.Tech,Economics,3rd Year,Government,Job Security,52265,3,4,5,4,Preparing,SSC,Business,Data Analysis,Bangalore,Maybe,Yes,3
+1922,24,Male,BCA,Economics,3rd Year,Private,Career Growth,75013,3,4,3,5,Preparing,SSC,IT,Data Analysis,Anywhere,Maybe,No,2
+1923,18,Female,B.A,Statistics,1st Year,Government,Work-Life Balance,55701,2,4,5,1,Planning,None,Data Analytics,SQL,Other Tamil Nadu,Yes,Yes,3
+1924,24,Male,B.Com,Economics,4th Year,Government,Job Security,66287,2,2,2,5,Not Preparing,SSC,Data Analytics,SQL,Anywhere,No,No,1
+1925,18,Female,BCA,Engineering,1st Year,Government,Job Security,21727,5,1,1,5,Preparing,TNPSC,Core Industry,SQL,Other India,Yes,Yes,3
+1926,20,Male,B.Tech,Engineering,3rd Year,Government,Job Security,59924,4,1,2,5,Planning,None,None,Data Analysis,Anywhere,Maybe,Yes,5
+1927,22,Male,B.E,Arts,1st Year,Private,Career Growth,65717,1,4,3,3,Not Preparing,Other,None,Java,Other Tamil Nadu,Maybe,No,3
+1928,21,Male,B.Tech,Statistics,3rd Year,Both,Work-Life Balance,47427,1,5,3,5,Planning,None,Core Industry,Data Analysis,Anywhere,No,Yes,3
+1929,23,Female,B.E,Arts,1st Year,Private,Career Growth,31692,3,3,1,4,Planning,None,Banking,SQL,Chennai,Yes,Yes,2
+1930,18,Male,BCA,Arts,2nd Year,Government,Job Security,46625,5,4,5,2,Preparing,SSC,Data Analytics,Communication,Other Tamil Nadu,Maybe,No,5
+1931,24,Female,B.A,Management,1st Year,Government,Salary,39918,3,5,4,3,Not Preparing,Other,Banking,Python,Bangalore,Yes,No,4
+1932,21,Female,B.Tech,Commerce,2nd Year,Government,Job Security,56395,1,5,3,1,Planning,None,Business,Java,Anywhere,No,No,4
+1933,18,Male,BBA,Commerce,2nd Year,Private,Work-Life Balance,56136,2,2,1,2,Not Preparing,SSC,Data Analytics,Communication,Chennai,No,Yes,5
+1934,18,Male,B.E,Economics,4th Year,Private,Career Growth,64290,4,2,4,2,Preparing,Banking,Business,Excel,Other India,Maybe,No,4
+1935,25,Male,B.A,Economics,2nd Year,Both,Job Security,64345,5,1,5,2,Not Preparing,Other,IT,Communication,Other India,No,Yes,1
+1936,18,Female,B.Com,Management,2nd Year,Government,Work-Life Balance,67409,2,1,3,5,Planning,Railway,Banking,Communication,Anywhere,Maybe,No,4
+1937,23,Male,B.E,Economics,1st Year,Private,Work-Life Balance,30577,4,3,1,5,Planning,TNPSC,Core Industry,Excel,Other India,Maybe,No,1
+1938,22,Female,BCA,Commerce,3rd Year,Private,Skill Development,34619,5,3,1,3,Not Preparing,Railway,Data Analytics,Communication,Bangalore,No,Yes,5
+1939,23,Female,B.Com,Arts,4th Year,Private,Passion,61240,5,3,1,5,Planning,Other,Banking,Python,Other Tamil Nadu,No,Yes,4
+1940,19,Male,B.Com,Computer Science,2nd Year,Private,Career Growth,48710,1,3,3,5,Planning,None,Core Industry,Java,Chennai,Yes,Yes,4
+1941,21,Male,B.Sc,Engineering,4th Year,Private,Salary,52388,2,5,4,5,Planning,SSC,IT,Power BI,Anywhere,Yes,No,1
+1942,22,Female,B.Tech,Computer Science,1st Year,Private,Salary,76223,5,5,1,3,Preparing,Other,Data Analytics,Data Analysis,Other India,Maybe,No,1
+1943,25,Female,B.E,Computer Science,2nd Year,Government,Social Status,69872,5,1,5,3,Preparing,TNPSC,Business,Excel,Other Tamil Nadu,Yes,No,3
+1944,22,Female,B.Com,Commerce,1st Year,Private,Career Growth,31195,4,2,1,4,Planning,Other,IT,Java,Bangalore,Maybe,Yes,2
+1945,22,Male,B.Sc,Computer Science,4th Year,Government,Job Security,42689,1,2,4,4,Not Preparing,SSC,None,SQL,Other India,No,Yes,4
+1946,24,Female,BCA,Management,1st Year,Private,Salary,26154,3,4,3,4,Preparing,Railway,Core Industry,Python,Other India,No,Yes,2
+1947,22,Male,B.A,Statistics,4th Year,Government,Job Security,54121,1,5,1,4,Not Preparing,Banking,Data Analytics,Power BI,Chennai,Yes,Yes,2
+1948,25,Female,BBA,Economics,1st Year,Private,Career Growth,44412,3,3,1,2,Planning,Railway,Data Analytics,Python,Bangalore,Maybe,No,4
+1949,23,Female,BBA,Statistics,4th Year,Both,Work-Life Balance,36341,2,3,5,2,Planning,SSC,IT,Python,Bangalore,Maybe,Yes,1
+1950,22,Male,B.E,Arts,3rd Year,Both,Career Growth,47018,2,4,5,4,Not Preparing,SSC,Data Analytics,SQL,Anywhere,Yes,Yes,3
+1951,20,Female,B.Com,Engineering,1st Year,Private,Skill Development,24145,5,2,1,4,Preparing,TNPSC,Core Industry,Power BI,Chennai,Maybe,No,5
+1952,21,Male,BBA,Economics,1st Year,Private,Skill Development,57262,2,3,1,1,Not Preparing,Other,IT,Data Analysis,Anywhere,Maybe,No,4
+1953,22,Male,B.Tech,Computer Science,3rd Year,Private,Salary,61330,5,2,5,2,Not Preparing,Other,Business,Python,Chennai,No,Yes,4
+1954,21,Female,BBA,Engineering,3rd Year,Private,Career Growth,67533,1,4,4,1,Planning,Railway,IT,SQL,Bangalore,Maybe,Yes,5
+1955,20,Male,BBA,Economics,1st Year,Both,Salary,37223,2,2,2,1,Preparing,Banking,IT,Excel,Chennai,Maybe,Yes,2
+1956,20,Male,BBA,Management,3rd Year,Government,Job Security,17880,1,2,2,5,Not Preparing,Banking,Business,SQL,Chennai,Maybe,Yes,3
+1957,21,Female,B.Sc,Management,2nd Year,Both,Job Security,74531,1,2,1,3,Preparing,TNPSC,None,Communication,Chennai,Yes,Yes,2
+1958,18,Male,B.Com,Management,4th Year,Both,Career Growth,36271,2,3,5,2,Planning,SSC,Core Industry,Java,Other Tamil Nadu,Yes,Yes,5
+1959,19,Male,B.Tech,Management,4th Year,Private,Career Growth,48313,1,1,3,4,Preparing,TNPSC,None,SQL,Other Tamil Nadu,Yes,No,5
+1960,24,Male,B.Com,Computer Science,4th Year,Government,Salary,61900,2,5,3,4,Planning,Other,None,SQL,Bangalore,Maybe,No,3
+1961,18,Female,B.E,Statistics,2nd Year,Government,Family Preference,28304,2,2,2,3,Preparing,None,None,SQL,Chennai,Maybe,No,5
+1962,18,Male,B.E,Economics,3rd Year,Both,Work-Life Balance,49695,2,2,4,2,Not Preparing,None,Banking,Data Analysis,Bangalore,Yes,No,5
+1963,23,Female,B.E,Computer Science,3rd Year,Government,Social Status,45225,3,2,2,4,Planning,None,None,Python,Other Tamil Nadu,Yes,Yes,3
+1964,24,Female,BCA,Management,1st Year,Both,Work-Life Balance,35536,1,1,1,4,Not Preparing,SSC,Banking,Data Analysis,Chennai,Maybe,Yes,4
+1965,24,Male,BBA,Arts,3rd Year,Private,Salary,45831,4,4,4,5,Planning,TNPSC,Business,Power BI,Anywhere,Maybe,Yes,2
+1966,18,Male,BCA,Statistics,1st Year,Government,Social Status,64156,2,3,3,1,Preparing,Railway,Core Industry,SQL,Other Tamil Nadu,No,Yes,4
+1967,22,Male,B.Sc,Arts,2nd Year,Both,Salary,26673,1,1,5,4,Preparing,Other,None,SQL,Other Tamil Nadu,Yes,No,4
+1968,23,Female,B.E,Engineering,4th Year,Private,Skill Development,36917,5,2,5,2,Planning,None,Data Analytics,Communication,Other Tamil Nadu,Maybe,Yes,2
+1969,23,Male,B.Tech,Arts,4th Year,Private,Skill Development,42829,2,1,1,3,Planning,Banking,Business,Communication,Chennai,Yes,Yes,4
+1970,20,Male,B.Com,Engineering,4th Year,Private,Career Growth,30372,2,1,2,5,Planning,TNPSC,Banking,Excel,Other India,Yes,Yes,3
+1971,25,Male,BBA,Engineering,3rd Year,Government,Social Status,40938,4,1,1,2,Preparing,Other,Core Industry,Excel,Anywhere,Yes,Yes,2
+1972,24,Male,B.A,Management,1st Year,Private,Work-Life Balance,74164,3,4,5,5,Planning,Other,IT,Communication,Anywhere,No,No,1
+1973,18,Male,B.Tech,Engineering,1st Year,Government,Job Security,69530,3,5,3,1,Planning,Banking,Core Industry,Power BI,Bangalore,Maybe,Yes,4
+1974,20,Female,BBA,Commerce,2nd Year,Both,Work-Life Balance,70385,2,3,5,4,Not Preparing,Banking,Core Industry,Excel,Chennai,Maybe,No,5
+1975,21,Female,BCA,Economics,3rd Year,Both,Salary,17663,1,4,4,2,Planning,Banking,None,Java,Other Tamil Nadu,Yes,Yes,2
+1976,19,Male,BCA,Economics,2nd Year,Government,Work-Life Balance,75282,5,4,5,3,Not Preparing,None,None,Java,Other India,Maybe,Yes,1
+1977,25,Male,B.Tech,Management,1st Year,Private,Salary,62801,5,5,5,1,Not Preparing,None,Banking,Power BI,Chennai,No,Yes,5
+1978,25,Male,BCA,Commerce,1st Year,Private,Salary,24465,1,4,4,1,Not Preparing,TNPSC,Banking,Communication,Chennai,Yes,No,1
+1979,25,Male,B.E,Arts,4th Year,Government,Family Preference,18326,2,1,2,5,Preparing,Banking,None,Excel,Other India,No,Yes,4
+1980,23,Female,B.Sc,Computer Science,3rd Year,Both,Work-Life Balance,18659,5,1,5,1,Not Preparing,Railway,None,SQL,Other Tamil Nadu,No,Yes,5
+1981,21,Male,B.Com,Arts,1st Year,Government,Social Status,75289,3,2,1,2,Planning,Other,Data Analytics,Communication,Chennai,Maybe,Yes,4
+1982,25,Female,B.Sc,Computer Science,4th Year,Government,Job Security,42594,1,4,5,5,Preparing,Banking,Data Analytics,Excel,Anywhere,Maybe,No,5
+1983,21,Female,BBA,Engineering,3rd Year,Private,Work-Life Balance,65283,4,2,1,1,Preparing,Other,Business,Power BI,Anywhere,No,No,2
+1984,22,Male,B.Com,Statistics,2nd Year,Private,Career Growth,19763,2,3,4,3,Preparing,SSC,None,Java,Other India,Maybe,Yes,3
+1985,25,Female,B.Com,Computer Science,3rd Year,Private,Passion,38121,1,1,5,2,Preparing,SSC,IT,Power BI,Other Tamil Nadu,No,No,3
+1986,19,Female,B.Sc,Statistics,3rd Year,Private,Salary,25828,5,3,4,3,Preparing,Banking,Data Analytics,Excel,Other India,No,Yes,1
+1987,21,Female,B.Tech,Economics,1st Year,Private,Career Growth,62588,2,5,4,3,Preparing,Other,Banking,Power BI,Chennai,Yes,Yes,5
+1988,21,Female,B.Com,Statistics,1st Year,Private,Skill Development,26221,3,1,2,5,Preparing,SSC,Core Industry,Excel,Anywhere,No,No,4
+1989,19,Male,B.Sc,Economics,3rd Year,Government,Job Security,26211,2,3,5,4,Not Preparing,Banking,Business,Excel,Bangalore,No,Yes,2
+1990,25,Male,B.Com,Commerce,1st Year,Government,Job Security,28569,2,5,1,5,Planning,Other,Data Analytics,Power BI,Other India,Maybe,Yes,2
+1991,19,Female,B.A,Commerce,1st Year,Government,Job Security,46358,3,3,1,2,Planning,Banking,Core Industry,Python,Bangalore,Yes,No,2
+1992,21,Male,B.Tech,Management,1st Year,Government,Job Security,52860,3,5,5,2,Not Preparing,None,Core Industry,SQL,Bangalore,Maybe,No,3
+1993,19,Male,B.E,Management,4th Year,Private,Career Growth,21022,2,5,2,5,Not Preparing,Other,Data Analytics,Communication,Anywhere,Yes,No,4
+1994,21,Male,B.Com,Engineering,4th Year,Government,Job Security,60337,3,1,2,4,Preparing,SSC,IT,Java,Other India,Maybe,No,2
+1995,21,Male,B.A,Computer Science,3rd Year,Government,Salary,79473,1,2,2,5,Preparing,Banking,IT,SQL,Bangalore,No,Yes,2
+1996,22,Male,B.E,Engineering,1st Year,Government,Job Security,67311,3,5,1,2,Not Preparing,SSC,Business,Communication,Chennai,Yes,Yes,1
+1997,18,Female,B.E,Economics,4th Year,Both,Job Security,28515,3,5,4,4,Preparing,Banking,IT,Communication,Other Tamil Nadu,Yes,Yes,5
+1998,21,Male,BBA,Engineering,3rd Year,Both,Salary,21159,2,1,2,2,Planning,TNPSC,Business,Java,Other Tamil Nadu,Yes,Yes,5
+1999,25,Male,B.Com,Statistics,1st Year,Private,Work-Life Balance,71470,1,2,1,4,Planning,SSC,Banking,SQL,Anywhere,Yes,Yes,5
+2000,20,Male,B.Sc,Economics,2nd Year,Both,Work-Life Balance,60991,4,4,1,4,Preparing,SSC,Data Analytics,Java,Other India,Maybe,Yes,1

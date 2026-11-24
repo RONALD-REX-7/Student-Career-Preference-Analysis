@@ -1,0 +1,58 @@
+============================================================
+STUDENT CAREER PREFERENCE ANALYSIS - INSIGHTS REPORT
+============================================================
+
+Total students analyzed: 1000
+
+1. CAREER SECTOR PREFERENCE
+----------------------------------------
+Private: 427 students (42.70%)
+Government: 416 students (41.60%)
+Both: 157 students (15.70%)
+
+2. TOP CAREER MOTIVATIONS
+----------------------------------------
+Job Security: 212 students
+Career Growth: 193 students
+Salary: 189 students
+Work-Life Balance: 163 students
+Skill Development: 85 students
+
+3. EXPECTED MONTHLY SALARY
+----------------------------------------
+Average salary expectation: ₹46,557.85
+Median salary expectation: ₹46,612.50
+Minimum salary expectation: ₹15,060
+Maximum salary expectation: ₹79,952
+
+4. AVERAGE SALARY BY PREFERENCE
+----------------------------------------
+Both: ₹44,826.34
+Government: ₹47,598.03
+Private: ₹46,181.10
+
+5. GOVERNMENT EXAM PREPARATION
+----------------------------------------
+Preparing: 346 (34.60%)
+Not Preparing: 339 (33.90%)
+Planning: 315 (31.50%)
+
+6. CAREER PREFERENCE BY DEGREE
+----------------------------------------
+Preferred_Sector  Both  Government  Private
+Degree                                     
+B.A                 21          62       47
+B.Com               30          54       69
+B.E                 18          62       64
+B.Sc                19          64       58
+B.Tech              20          60       71
+BBA                 23          59       61
+BCA                 26          55       57
+
+7. MOST POPULAR SKILLS
+----------------------------------------
+Java: 164 students
+SQL: 151 students
+Python: 145 students
+Power BI: 142 students
+Data Analysis: 137 students
